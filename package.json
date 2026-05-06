@@ -1,0 +1,21 @@
+{
+  "name": "anki-geo-nyc",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:maps": "tsx src/generate-neighborhood-maps.ts",
+    "generate:deck-json": "tsx src/generate-anki-deck-json.ts",
+    "optimize:images": "tsx src/optimize-neighborhood-images.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.65",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  },
+  "packageManager": "pnpm@10.6.5"
+}
