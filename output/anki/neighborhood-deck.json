@@ -1,0 +1,2613 @@
+{
+  "meta": {
+    "generatedAt": "2026-05-06T02:12:19.003Z",
+    "totalCards": 325,
+    "cardsWithImages": 325,
+    "cardsMissingImages": 0,
+    "imageRoot": "/Users/matv/code/anki-geo-nyc/output/neighborhood-maps-webp",
+    "imagePrefix": "neighborhood-maps-webp",
+    "sourceDataPath": "/Users/matv/code/anki-geo-nyc/data/locality-nyc-neighborhoods.json"
+  },
+  "cards": [
+    {
+      "id": "manhattan__financial-district",
+      "neighborhood": "Financial District",
+      "borough": "Manhattan",
+      "summaryHtml": "Comprised of offices and headquarters of many of the city's major financial institutions, including the <a target='_blank' href='https://en.wikipedia.org/wiki/New_York_Stock_Exchange'>New York Stock Exchange</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_New_York'>Federal Reserve Bank of New York</a>, the new <a target='_blank' href='https://en.wikipedia.org/wiki/World_Trade_Center'>World Trade Center</a> complex, along with the <a target='_blank' href='https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum'>National September 11 Memorial and Museum</a>. The Financial District, or <strong>FiDi</strong> for short, is rich in history, overlapping the boundaries of the <a target='_blank' href='https://en.wikipedia.org/wiki/New_Amsterdam'>New Amsterdam</a> settlement in the late 17th century. <a target='blank' href='https://en.wikipedia.org/wiki/Federal_Hall'>Federal Hall</a> is also located here, which is the site of the <a target='_blank' href='https://en.wikipedia.org/wiki/United_States_Capitol'>first US Capitol</a> and the inauguration of <a target='_blank' href='https://en.wikipedia.org/wiki/George_Washington'>George Washington</a> as the first President of the United States. During the day, the population of the Financial District area swells to about 300,000.",
+      "summaryText": "Comprised of offices and headquarters of many of the city's major financial institutions, including the New York Stock Exchange, Federal Reserve Bank of New York, the new World Trade Center complex, along with the National September 11 Memorial and Museum. The Financial District, or FiDi for short, is rich in history, overlapping the boundaries of the New Amsterdam settlement in the late 17th century. Federal Hall is also located here, which is the site of the first US Capitol and the inauguration of George Washington as the first President of the United States. During the day, the population of the Financial District area swells to about 300,000.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/financial-district.webp"
+    },
+    {
+      "id": "manhattan__battery-park-city",
+      "neighborhood": "Battery Park City",
+      "borough": "Manhattan",
+      "summaryHtml": "A <a taregt='_blank' href='https://en.wikipedia.org/wiki/Planned_community'>planned community</a> created by land reclamation on the Hudson River, using 1.2 million cubic yards (917,000 m<sup>3</sup>) of soil and rocks excavated during the construction of the <a taregt='_blank' href='https://en.wikipedia.org/wiki/World_Trade_Center'>World Trade Center</a>. The 9/11 terrorist attacks had a major impact on Battery Park City. The residents of lower Manhattan and particularly of Battery Park City were displaced for ten days. Upon return, the air in the area was still filled with toxic smoke from the World Trade Center fires that persisted until January 2002. The neighborhood, which is the site of the <a taregt='_blank' href='https://en.wikipedia.org/wiki/World_Financial_Center'>World Financial Center</a> along with numerous housing, commercial and retail buildings, is named after the adjacent <a href='https://en.wikipedia.org/wiki/Battery_Park_%28New_York%29'>Battery Park</a>.",
+      "summaryText": "A planned community created by land reclamation on the Hudson River, using 1.2 million cubic yards (917,000 m^3) of soil and rocks excavated during the construction of the World Trade Center. The 9/11 terrorist attacks had a major impact on Battery Park City. The residents of lower Manhattan and particularly of Battery Park City were displaced for ten days. Upon return, the air in the area was still filled with toxic smoke from the World Trade Center fires that persisted until January 2002. The neighborhood, which is the site of the World Financial Center along with numerous housing, commercial and retail buildings, is named after the adjacent Battery Park.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/battery-park-city.webp"
+    },
+    {
+      "id": "manhattan__two-bridges",
+      "neighborhood": "Two Bridges",
+      "borough": "Manhattan",
+      "summaryHtml": "Two Bridges, with its <a target='_blank' href='https://en.wikipedia.org/wiki/Tenement'>tenements</a> and a high concentration of <a target='_blank' href='https://en.wikipedia.org/wiki/Public_housing'>public housing</a> projects, including the <a target='_blank' href='https://en.wikipedia.org/wiki/LaGuardia_Houses'>LaGuardia Houses</a>, has traditionally been an immigrant neighborhood, previously populated by immigrants from Europe, more recently from Latin America, and now from China. The Two Bridges Historic District was listed in the <a target='_blank' href='https://en.wikipedia.org/wiki/National_Register_of_Historic_Places'>National Register of Historic Places</a> in September 2003.",
+      "summaryText": "Two Bridges, with its tenements and a high concentration of public housing projects, including the LaGuardia Houses, has traditionally been an immigrant neighborhood, previously populated by immigrants from Europe, more recently from Latin America, and now from China. The Two Bridges Historic District was listed in the National Register of Historic Places in September 2003.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/two-bridges.webp"
+    },
+    {
+      "id": "manhattan__tribeca",
+      "neighborhood": "TriBeCa",
+      "borough": "Manhattan",
+      "summaryHtml": "The name is an <a target='_blank' href='https://en.wikipedia.org/wiki/Acronym'>acronym</a> based on the words \"Triangle below <a target='_blank' href='https://en.wikipedia.org/wiki/Canal_Street_(Manhattan)'>Canal Street</a>\". The neighborhood is home to the <a target='_blank' href='http://en.wikipedia.org/wiki/Tribeca_Film_Festival'>Tribeca Film Festival</a>. The was originally a Dutch farmland in the 17th century. Under British rule it was among the first residential neighborhoods developed on the island beyond the colonial boundaries, with residential development beginning in the late 18th century. By the mid-19th century the area transformed into a commercial center, with large numbers of store and loft buildings constructed along Broadway in the 1850s and 1860s. Tribeca suffered financially after the <a target='_blank' href='https://en.wikipedia.org/wiki/September_11,_2001_terrorist_attacks'>September 11, 2001 terrorist attacks</a>, but government grants and incentives helped the area rebound fairly quickly. The Tribeca Film Festival was established to help contribute to the long-term recovery of Lower Manhattan after 9/11. By the new millennium, Tribeca was among Manhattan's most desired neighborhoods, with many celebrity residents such as Bono, Justin Timberlake, Taylor Swift, Beyoncé and Jay-Z.",
+      "summaryText": "The name is an acronym based on the words \"Triangle below Canal Street\". The neighborhood is home to the Tribeca Film Festival. The was originally a Dutch farmland in the 17th century. Under British rule it was among the first residential neighborhoods developed on the island beyond the colonial boundaries, with residential development beginning in the late 18th century. By the mid-19th century the area transformed into a commercial center, with large numbers of store and loft buildings constructed along Broadway in the 1850s and 1860s. Tribeca suffered financially after the September 11, 2001 terrorist attacks, but government grants and incentives helped the area rebound fairly quickly. The Tribeca Film Festival was established to help contribute to the long-term recovery of Lower Manhattan after 9/11. By the new millennium, Tribeca was among Manhattan's most desired neighborhoods, with many celebrity residents such as Bono, Justin Timberlake, Taylor Swift, Beyoncé and Jay-Z.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/tribeca.webp"
+    },
+    {
+      "id": "manhattan__civic-center",
+      "neighborhood": "Civic Center",
+      "borough": "Manhattan",
+      "summaryHtml": "The Civic Center is the swath of downtown Manhattan that encompasses <a target='_blank' href='https://en.wikipedia.org/wiki/New_York_City_Hall'>City Hall</a>, the <a target='_blank' href='https://en.wikipedia.org/wiki/1_Police_Plaza'>NYPD headquarters</a> and the courts.",
+      "summaryText": "The Civic Center is the swath of downtown Manhattan that encompasses City Hall, the NYPD headquarters and the courts.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/civic-center.webp"
+    },
+    {
+      "id": "manhattan__chinatown",
+      "neighborhood": "Chinatown",
+      "borough": "Manhattan",
+      "summaryHtml": "Home to the largest enclave of <a target='_blank' href='https://en.wikipedia.org/wiki/Chinese_people'>Chinese people</a> in the Western Hemisphere, and is also one of the <a target='_blank' href='https://en.wikipedia.org/wiki/Overseas_Chinese'>oldest such enclaves</a> outside of Asia. Chinese immigrants originally came here to find work as &quot;cigar men&quot;, after <a target='_blank' href='https://en.wikipedia.org/wiki/Ah_Ken'>Ah Ken</a>, the first Chinese person to permanently live here, who had a successful cigar store on <a target='_blank' href='https://en.wikipedia.org/wiki/Park_Row_(Manhattan)'>Park Row</a>. The early days of Chinatown were dominated by Chinese &quot;<a target='_blank' href='https://en.wikipedia.org/wiki/Tong_(gang)'>tongs</a>&quot;, secret associations with political alliances and crime syndicates. After the <a target='_blank' href='https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965'>Immigration and Nationality Act of 1965</a> was enacted, Chinatown grew tremendously. Today it is home to some 47,000 residents, and is known for its lively food shopping, and availability of cheap knockoffs of designer apparel and watches.",
+      "summaryText": "Home to the largest enclave of Chinese people in the Western Hemisphere, and is also one of the oldest such enclaves outside of Asia. Chinese immigrants originally came here to find work as \"cigar men\", after Ah Ken, the first Chinese person to permanently live here, who had a successful cigar store on Park Row. The early days of Chinatown were dominated by Chinese \"tongs\", secret associations with political alliances and crime syndicates. After the Immigration and Nationality Act of 1965 was enacted, Chinatown grew tremendously. Today it is home to some 47,000 residents, and is known for its lively food shopping, and availability of cheap knockoffs of designer apparel and watches.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/chinatown.webp"
+    },
+    {
+      "id": "manhattan__little-italy",
+      "neighborhood": "Little Italy",
+      "borough": "Manhattan",
+      "summaryHtml": "Once known for its large population of Italians. It has since been engulfed by Chinatown, and has essentially shrunk into a <a target='_blank' href='https://en.wikipedia.org/wiki/Mulberry_Street_(Manhattan)'>single street</a> which serves as a restaurant area but which has few Italian residents.",
+      "summaryText": "Once known for its large population of Italians. It has since been engulfed by Chinatown, and has essentially shrunk into a single street which serves as a restaurant area but which has few Italian residents.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/little-italy.webp"
+    },
+    {
+      "id": "manhattan__lower-east-side",
+      "neighborhood": "Lower East Side",
+      "borough": "Manhattan",
+      "summaryHtml": "This area was originally home to the pre-Revolutionary farm of <a target='_blank' href='https://en.wikipedia.org/wiki/James_DeLancey_(politician)'>James Delancey</a>, and in response to the pressure of a growing city, the farm was confiscated shortly after the Revolution. The Lower East Side is traditionally an immigrant, <a target='_blank' href='https://en.wikipedia.org/wiki/Working_class'>working class</a> neighborhood, at one time home to <a target='_blank' href='https://en.wikipedia.org/wiki/Little_Germany,_Manhattan'>Little Germany</a> and a large Irish population. Since 2005 it has undergone rapid <a target='_blank' href='https://en.wikipedia.org/wiki/Gentrification'>gentrification</a>. This prompted the <a target='_blank' href='https://en.wikipedia.org/wiki/The_National_Trust_for_Historic_Preservation'>National Trust for Historic Preservation</a> to place the neighborhood on their list of <a href='https://en.wikipedia.org/wiki/America%27s_Most_Endangered_Places'>America's Most Endangered Places</a>. American Jews relate to the neighborhood in a particularly strong manner. In the late 20th century, the strong pull of the Lower East Side on the imagination of American Jews led to the preservation of a number of buildings associated with the Jewish immigrants. Today the Lower East Side offers a multicultural blend of trendy boutiques, cafés, night clubs, dive bars and Spanish bodegas. The <a target='_blank' href='https://en.wikipedia.org/wiki/East_Village,_Manhattan'>East Village</a> was once considered part of the Lower East Side but has grown into its own identity.",
+      "summaryText": "This area was originally home to the pre-Revolutionary farm of James Delancey, and in response to the pressure of a growing city, the farm was confiscated shortly after the Revolution. The Lower East Side is traditionally an immigrant, working class neighborhood, at one time home to Little Germany and a large Irish population. Since 2005 it has undergone rapid gentrification. This prompted the National Trust for Historic Preservation to place the neighborhood on their list of America's Most Endangered Places. American Jews relate to the neighborhood in a particularly strong manner. In the late 20th century, the strong pull of the Lower East Side on the imagination of American Jews led to the preservation of a number of buildings associated with the Jewish immigrants. Today the Lower East Side offers a multicultural blend of trendy boutiques, cafés, night clubs, dive bars and Spanish bodegas. The East Village was once considered part of the Lower East Side but has grown into its own identity.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/lower-east-side.webp"
+    },
+    {
+      "id": "manhattan__bowery",
+      "neighborhood": "Bowery",
+      "borough": "Manhattan",
+      "summaryHtml": "As a street, the Bowery was known as Bowery Lane prior to 1807. From Houston to Delancey Streets serves as New York's principal market for restaurant equipment, and from Delancey to Grand for lamps. As of July 2005, <a target='_blank' href='https://en.wikipedia.org/wiki/Gentrification'>gentrification</a> is contributing to ongoing change along the Bowery.",
+      "summaryText": "As a street, the Bowery was known as Bowery Lane prior to 1807. From Houston to Delancey Streets serves as New York's principal market for restaurant equipment, and from Delancey to Grand for lamps. As of July 2005, gentrification is contributing to ongoing change along the Bowery.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/bowery.webp"
+    },
+    {
+      "id": "manhattan__east-village",
+      "neighborhood": "East Village",
+      "borough": "Manhattan",
+      "summaryHtml": "Once generally considered to be part of the <a target='_blank' href='https://en.wikipedia.org/wiki/Lower_East_Side'>Lower East Side</a>, the East Village began to develop its own identity and culture in the late 1960s, when many artists, musicians, students and <a target='_blank' href='https://en.wikipedia.org/wiki/Hippie'>hippies</a> began to move into the area, attracted by cheap rents and the base of <a target='_blank' href='https://en.wikipedia.org/wiki/Beatniks'>Beatniks</a> who had lived there since the 1950s. The neighborhood has become a center of the <a target='_blank' href='https://en.wikipedia.org/wiki/Counterculture'>counterculture</a> in New York, and is known as the birthplace and historical home of many artistic movements, including <a target='_blank' href='https://en.wikipedia.org/wiki/Punk_rock'>punk rock</a>, and the <a target='_blank' href='https://en.wikipedia.org/wiki/Nuyorican'>Nuyorican</a> literary movement. It is still known for its diverse community, with vibrant nightlife and artistic sensibility, but in recent decades <a target='_blank' href='https://en.wikipedia.org/wiki/Gentrification'>gentrification</a> has somewhat changed the character of the neighborhood.",
+      "summaryText": "Once generally considered to be part of the Lower East Side, the East Village began to develop its own identity and culture in the late 1960s, when many artists, musicians, students and hippies began to move into the area, attracted by cheap rents and the base of Beatniks who had lived there since the 1950s. The neighborhood has become a center of the counterculture in New York, and is known as the birthplace and historical home of many artistic movements, including punk rock, and the Nuyorican literary movement. It is still known for its diverse community, with vibrant nightlife and artistic sensibility, but in recent decades gentrification has somewhat changed the character of the neighborhood.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/east-village.webp"
+    },
+    {
+      "id": "manhattan__alphabet-city",
+      "neighborhood": "Alphabet City",
+      "borough": "Manhattan",
+      "summaryHtml": "Sometimes known as Loisaida to the Spanish-speaking, until the early 19th century, much of what is now Alphabet City was an extensive <a target='_blank' href='https://en.wikipedia.org/wiki/Salt_marsh'>salt marsh</a>. Alphabet City became home to a <a target='_blank' href='https://en.wikipedia.org/wiki/Ethnic_succession_theory'>succession</a> of immigrant groups over the years. By the 1840s and 1850s, much of present-day Alphabet City had become known as &quot;<a target='_blank' href='https://en.wikipedia.org/wiki/Little_Germany,_New_York'>Little Germany</a>&quot;. By the middle of the 20th century, Alphabet City was again in transition, as thousands of <a target='_blank' href='https://en.wikipedia.org/wiki/Puerto_Rican_American'>Puerto Ricans</a> began to settle in the neighborhood, making it an important site for the development and strengthening of Puerto Rican cultural identity in New York. Avenues A through D became distinctly less <a target='_blank' href='https://en.wikipedia.org/wiki/Bohemianism'>bohemian</a> in the 21st century than they had been in earlier decades, and formerly abandoned buildings are now community gardens. <a target='_blank' href='https://en.wikipedia.org/wiki/C-Squat'>C-Squat</a> is the most famous example of a <a target='_blank' href='https://en.wikipedia.org/wiki/Squatting'>squat house</a>, where the abandoned building hosted many notable musicians, artists and activists. Today Alphabet City offers thriving nightlife, ethnic cuisine and high-end boutiques.",
+      "summaryText": "Sometimes known as Loisaida to the Spanish-speaking, until the early 19th century, much of what is now Alphabet City was an extensive salt marsh. Alphabet City became home to a succession of immigrant groups over the years. By the 1840s and 1850s, much of present-day Alphabet City had become known as \"Little Germany\". By the middle of the 20th century, Alphabet City was again in transition, as thousands of Puerto Ricans began to settle in the neighborhood, making it an important site for the development and strengthening of Puerto Rican cultural identity in New York. Avenues A through D became distinctly less bohemian in the 21st century than they had been in earlier decades, and formerly abandoned buildings are now community gardens. C-Squat is the most famous example of a squat house, where the abandoned building hosted many notable musicians, artists and activists. Today Alphabet City offers thriving nightlife, ethnic cuisine and high-end boutiques.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/alphabet-city.webp"
+    },
+    {
+      "id": "manhattan__nolita",
+      "neighborhood": "NoLita",
+      "borough": "Manhattan",
+      "summaryHtml": "Long regarded as part of <a target='_blank' href='https://en.wikipedia.org/wiki/Little_Italy,_Manhattan'>Little Italy</a>, but has lost much of its recognizable Italian character in recent decades because of the migration of <a target='_blank' href='https://en.wikipedia.org/wiki/Italian-American'>Italian-Americans</a> out of Manhattan. In the 1990s, the neighborhood saw an influx of <a target='_blank' href='https://en.wikipedia.org/wiki/Yuppie'>yuppies</a> and an explosion of expensive retail boutiques, trendy restaurants and bars.",
+      "summaryText": "Long regarded as part of Little Italy, but has lost much of its recognizable Italian character in recent decades because of the migration of Italian-Americans out of Manhattan. In the 1990s, the neighborhood saw an influx of yuppies and an explosion of expensive retail boutiques, trendy restaurants and bars.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/nolita.webp"
+    },
+    {
+      "id": "manhattan__soho",
+      "neighborhood": "SoHo",
+      "borough": "Manhattan",
+      "summaryHtml": "Notable for being the location of many artists' <a target='_blank' href='https://en.wikipedia.org/wiki/Loft'>lofts</a> and art galleries, and also, more recently, for the wide variety of stores and shops ranging from trendy boutiques to outlets of upscale national and international chain stores. The area's history is an archetypal example of inner-city regeneration and <a target='_blank' href='https://en.wikipedia.org/wiki/Gentrification'>gentrification</a>, encompassing <a target='_blank' href='https://en.wikipedia.org/wiki/Socio-economic'>socio-economic</a>, cultural, political and architectural developments. SoHo refers to the area being &quot;<strong>S</strong>outh <strong>o</strong>f <strong>Ho</strong>uston Street&quot;.",
+      "summaryText": "Notable for being the location of many artists' lofts and art galleries, and also, more recently, for the wide variety of stores and shops ranging from trendy boutiques to outlets of upscale national and international chain stores. The area's history is an archetypal example of inner-city regeneration and gentrification, encompassing socio-economic, cultural, political and architectural developments. SoHo refers to the area being \"South of Houston Street\".",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/soho.webp"
+    },
+    {
+      "id": "manhattan__hudson-square",
+      "neighborhood": "Hudson Square",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/hudson-square.webp"
+    },
+    {
+      "id": "manhattan__greenwich-village",
+      "neighborhood": "Greenwich Village",
+      "borough": "Manhattan",
+      "summaryHtml": "Often referred to as simply &quot;the Village&quot;, the area is one of New York's most famous neighborhoods and is largely residential. It was known in the late 19th to mid 20th centuries as an artists' haven, the <a target='_blank' href='https://en.wikipedia.org/wiki/Bohemianism'>bohemian</a> capital, and the East Coast birthplace of the <a target='_blank' href='https://en.wikipedia.org/wiki/Beat_Generation'>Beat movement</a>. What provided the initial attractive character of the community eventually contributed to its <a target='_blank' href='https://en.wikipedia.org/wiki/Gentrification'>gentrification</a> and commercialization. Greenwich Village has long been a popular neighborhood for numerous artists and other notable people. Many got their start in this area, notably <a target='_blank' href='https://en.wikipedia.org/wiki/Bob_Dylan'>Bob Dylan</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Jimi_Hendrix'>Jimi Hendrix</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Barbra_Streisand'>Barbra Streisand</a> and <a target='_blank' href='https://en.wikipedia.org/wiki/Simon_%26_Garfunkel'>Simon & Garfunkel</a>.",
+      "summaryText": "Often referred to as simply \"the Village\", the area is one of New York's most famous neighborhoods and is largely residential. It was known in the late 19th to mid 20th centuries as an artists' haven, the bohemian capital, and the East Coast birthplace of the Beat movement. What provided the initial attractive character of the community eventually contributed to its gentrification and commercialization. Greenwich Village has long been a popular neighborhood for numerous artists and other notable people. Many got their start in this area, notably Bob Dylan, Jimi Hendrix, Barbra Streisand and Simon & Garfunkel.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/greenwich-village.webp"
+    },
+    {
+      "id": "manhattan__meatpacking-district",
+      "neighborhood": "Meatpacking District",
+      "borough": "Manhattan",
+      "summaryHtml": "Until the 1990s, this area was primarily made up of buildings used for meat, poultry and dairy transactions. High-end <a target='_blank' href='https://en.wikipedia.org/wiki/Boutiques'>boutiques</a> catering to young professionals and <a target='_blank' href='https://en.wikipedia.org/wiki/Hipster_%28contemporary_subculture%29'>hipsters</a> began to open, and by 2003, only 35 of the 250 slaughterhouses and packing plants present a century earlier remained in the area. <a target='_blank' href='https://en.wikipedia.org/wiki/New_York_%28magazine%29'>New York magazine</a> named the Meatpacking District &quot;New York’s most fashionable neighborhood&quot; in 2004.",
+      "summaryText": "Until the 1990s, this area was primarily made up of buildings used for meat, poultry and dairy transactions. High-end boutiques catering to young professionals and hipsters began to open, and by 2003, only 35 of the 250 slaughterhouses and packing plants present a century earlier remained in the area. New York magazine named the Meatpacking District \"New York’s most fashionable neighborhood\" in 2004.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/meatpacking-district.webp"
+    },
+    {
+      "id": "manhattan__stuyvesant-town",
+      "neighborhood": "Stuyvesant Town",
+      "borough": "Manhattan",
+      "summaryHtml": "Stuy Town is a large private residential development, home to 8,757 apartments in 35 residential buildings. Prior to construction, the neighborhood contained eighteen city blocks, with public schools, churches, factories, private homes, apartments, small businesses, and even relatively new modern-style apartment buildings. As part of one of the city's many <a target='_blank' href='https://en.wikipedia.org/wiki/Urban_renewal'>urban renewal</a> projects, some 11,000 persons were forced to move from the neighborhood, championed by Parks Commissioner <a target='_blank' href='https://en.wikipedia.org/wiki/Robert_Moses'>Robert Moses</a>. To much controversy, Moses sought &quot;to induce insurance companies and savings banks to enter the field of large-scale <a target='_blank' href='https://en.wikipedia.org/wiki/Slum_clearance'>slum clearance</a>.&quot; Stuyvesant Town's <a target='_blank' href='https://en.wikipedia.org/wiki/Urban_planning'>planning</a> and design were met with haste as to how the project was approved and the lack of public participation. Combined with the sister Peter Cooper Village complex to the north, over 30,000 people live in the area.",
+      "summaryText": "Stuy Town is a large private residential development, home to 8,757 apartments in 35 residential buildings. Prior to construction, the neighborhood contained eighteen city blocks, with public schools, churches, factories, private homes, apartments, small businesses, and even relatively new modern-style apartment buildings. As part of one of the city's many urban renewal projects, some 11,000 persons were forced to move from the neighborhood, championed by Parks Commissioner Robert Moses. To much controversy, Moses sought \"to induce insurance companies and savings banks to enter the field of large-scale slum clearance.\" Stuyvesant Town's planning and design were met with haste as to how the project was approved and the lack of public participation. Combined with the sister Peter Cooper Village complex to the north, over 30,000 people live in the area.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/stuyvesant-town.webp"
+    },
+    {
+      "id": "manhattan__peter-cooper-village",
+      "neighborhood": "Peter Cooper Village",
+      "borough": "Manhattan",
+      "summaryHtml": "Paired with its sister Stuyvesant town, Peter Cooper Village is one of the most iconic and successful <a target='_blank' href='https://en.wikipedia.org/wiki/Post-war'>post-World War II</a> private housing communities. It is a large private residential development, with a sprawling collection of red brick apartment buildings. The site was constructed as part of a controversial urban renewal project championed by Parks Commissioner <a target='_blank' href='https://en.wikipedia.org/wiki/Robert_Moses'>Robert Moses</a>.",
+      "summaryText": "Paired with its sister Stuyvesant town, Peter Cooper Village is one of the most iconic and successful post-World War II private housing communities. It is a large private residential development, with a sprawling collection of red brick apartment buildings. The site was constructed as part of a controversial urban renewal project championed by Parks Commissioner Robert Moses.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/peter-cooper-village.webp"
+    },
+    {
+      "id": "manhattan__gramercy-park",
+      "neighborhood": "Gramercy Park",
+      "borough": "Manhattan",
+      "summaryHtml": "Home to a small, fenced-in private park of the same name, where only surrounding residents are allowed in. It was once in the middle of a swamp. Today it is considered a quiet and safe neighborhood. East 19th Street between Third Avenue and Irving is labeled &quot;Block Beautiful&quot; for its wide array of architecture and pristine aesthetic.",
+      "summaryText": "Home to a small, fenced-in private park of the same name, where only surrounding residents are allowed in. It was once in the middle of a swamp. Today it is considered a quiet and safe neighborhood. East 19th Street between Third Avenue and Irving is labeled \"Block Beautiful\" for its wide array of architecture and pristine aesthetic.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/gramercy-park.webp"
+    },
+    {
+      "id": "manhattan__chelsea",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan",
+      "summaryHtml": "This neighborhood is primarily residential, with a mix of <a target='_blank' href='https://en.wikipedia.org/wiki/Tenements'>tenements</a>, apartment blocks, <a target='_blank' href='https://en.wikipedia.org/wiki/New_York_City_Housing_Authority'>city housing projects</a>, townhouses and renovated <a target='_blank' href='https://en.wikipedia.org/wiki/Rowhouse'>rowhouses</a>, and its many retail businesses reflect the ethnic and social diversity of the population. The western part of Chelsea has become a center of the New York art world, with many art galleries located in both new buildings and rehabilitated warehouses. Chelsea is also home to the <a target='_blank' href='https://en.wikipedia.org/wiki/Joyce_Theater'>Joyce Theater</a> - one of the city&#39;s premier modern dance emporiums. Chelsea has a large <a target='_blank' href='https://en.wikipedia.org/wiki/Gay_village'>gay population</a>, stereotyped as gym-toned &quot;Chelsea boys&quot;. The Chelsea Historic District was added to the <a target='_blank' href='https://en.wikipedia.org/wiki/United_States_National_Register_of_Historic_Places_listings'>National Register of Historic Places</a> in 1977, which includes the famed <a target='_blank' href='https://en.wikipedia.org/wiki/Hotel_Chelsea'>Hotel Chelsea</a>.",
+      "summaryText": "This neighborhood is primarily residential, with a mix of tenements, apartment blocks, city housing projects, townhouses and renovated rowhouses, and its many retail businesses reflect the ethnic and social diversity of the population. The western part of Chelsea has become a center of the New York art world, with many art galleries located in both new buildings and rehabilitated warehouses. Chelsea is also home to the Joyce Theater - one of the city's premier modern dance emporiums. Chelsea has a large gay population, stereotyped as gym-toned \"Chelsea boys\". The Chelsea Historic District was added to the National Register of Historic Places in 1977, which includes the famed Hotel Chelsea.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/chelsea.webp"
+    },
+    {
+      "id": "manhattan__hudson-yards",
+      "neighborhood": "Hudson Yards",
+      "borough": "Manhattan",
+      "summaryHtml": "",
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/hudson-yards.webp"
+    },
+    {
+      "id": "manhattan__flatiron-district",
+      "neighborhood": "Flatiron District",
+      "borough": "Manhattan",
+      "summaryHtml": "Named after the famous <a target='_blank' href='https://en.wikipedia.org/wiki/Flatiron_Building'>Flatiron Building</a> at <a target='_blank' href='https://en.wikipedia.org/wiki/23rd_Street_%28Manhattan%29'>23rd Street</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Broadway_%28New_York_City%29'>Broadway</a> and <a target='_blank' href='https://en.wikipedia.org/wiki/Fifth_Avenue'>Fifth Avenue</a>, this neighborhood was once primarily commercial, with numerous small clothing and toy manufacturers, and was sometimes called the Toy District. The <a target='_blank' href='https://en.wikipedia.org/wiki/Toy_Center'>Toy Center</a> buildings at 23rd Street and Broadway date from this period, and the annual <a target='_blank' href='https://en.wikipedia.org/wiki/American_International_Toy_Fair'>American International Toy Fair</a> took place there beginning in 1903, except for 1945. When much of this business moved outside the U.S., the area began to be referred to as the Photo District.",
+      "summaryText": "Named after the famous Flatiron Building at 23rd Street, Broadway and Fifth Avenue, this neighborhood was once primarily commercial, with numerous small clothing and toy manufacturers, and was sometimes called the Toy District. The Toy Center buildings at 23rd Street and Broadway date from this period, and the annual American International Toy Fair took place there beginning in 1903, except for 1945. When much of this business moved outside the U.S., the area began to be referred to as the Photo District.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/flatiron-district.webp"
+    },
+    {
+      "id": "manhattan__noho",
+      "neighborhood": "NoHo",
+      "borough": "Manhattan",
+      "summaryHtml": "<strong>N</strong>orth <strong>o</strong>f <strong>Ho</strong>uston Street is primarily made up of loft apartments, which in turn makes it one of the most expensive and desirable neighborhoods in Manhattan. The NoHo Historic District, which comprises approximately 125 buildings, represents the period of New York City's commercial history from the early 1850s to the 1910s, when this section prospered as one of its major retail and wholesale dry goods centers.",
+      "summaryText": "North of Houston Street is primarily made up of loft apartments, which in turn makes it one of the most expensive and desirable neighborhoods in Manhattan. The NoHo Historic District, which comprises approximately 125 buildings, represents the period of New York City's commercial history from the early 1850s to the 1910s, when this section prospered as one of its major retail and wholesale dry goods centers.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/noho.webp"
+    },
+    {
+      "id": "manhattan__union-square",
+      "neighborhood": "Union Square",
+      "borough": "Manhattan",
+      "summaryHtml": "An important and historic intersection, with rich history of social and political activism. It is a frequent gathering point for radicals of all stripes to make speeches or demonstrate. Union Square was named a <a target='_blank' href='https://en.wikipedia.org/wiki/National_Historic_Landmark'>National Historic Landmark</a> in 1997. The neighborhood is also known for it's impressive sculpture of <a target='_blank' href='https://en.wikipedia.org/wiki/George_Washington'>George Washington</a>, and as the site for often social activity of famed pop artist <a target='_blank' href='https://en.wikipedia.org/wiki/Andy_Warhol'>Andy Warhol</a>.",
+      "summaryText": "An important and historic intersection, with rich history of social and political activism. It is a frequent gathering point for radicals of all stripes to make speeches or demonstrate. Union Square was named a National Historic Landmark in 1997. The neighborhood is also known for it's impressive sculpture of George Washington, and as the site for often social activity of famed pop artist Andy Warhol.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/union-square.webp"
+    },
+    {
+      "id": "manhattan__kips-bay",
+      "neighborhood": "Kips Bay",
+      "borough": "Manhattan",
+      "summaryHtml": "Kips Bay was an inlet of the East River running from what is now 32nd Street to 37th Street. Kips Bay was the site of the <a target='_blank' href='https://en.wikipedia.org/wiki/Landing_at_Kip%27s_Bay'>Landing at Kip's Bay</a> (September 15, 1776), an episode of the <a target='_blank' href='https://en.wikipedia.org/wiki/American_Revolutionary_War'>American Revolutionary War</a> and part of the <a target='_blank' href='https://en.wikipedia.org/wiki/New_York_and_New_Jersey_campaign'>New York and New Jersey campaign</a>. About 4,000 <a target='_blank' href='https://en.wikipedia.org/wiki/British_Army'>British Army</a> troops under <a target='_blank' href='https://en.wikipedia.org/wiki/William_Howe,_5th_Viscount_Howe'>General William Howe</a> landed at Kips Bay on September 15, 1776, near what is now the foot of East 33rd Street. The neighborhood has been rebuilt in patches, so one can see both new high-rise structures often set back from the street, and a multitude of exposed party walls that were never meant to be seen in public. Broadway Alley lies between 26th and 27th Streets, between Lexington and 3rd Avenues, which is a nearly forgotten alley that reputedly is the last unpaved road in Manhattan.",
+      "summaryText": "Kips Bay was an inlet of the East River running from what is now 32nd Street to 37th Street. Kips Bay was the site of the Landing at Kip's Bay (September 15, 1776), an episode of the American Revolutionary War and part of the New York and New Jersey campaign. About 4,000 British Army troops under General William Howe landed at Kips Bay on September 15, 1776, near what is now the foot of East 33rd Street. The neighborhood has been rebuilt in patches, so one can see both new high-rise structures often set back from the street, and a multitude of exposed party walls that were never meant to be seen in public. Broadway Alley lies between 26th and 27th Streets, between Lexington and 3rd Avenues, which is a nearly forgotten alley that reputedly is the last unpaved road in Manhattan.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/kips-bay.webp"
+    },
+    {
+      "id": "manhattan__stuyvesant-square",
+      "neighborhood": "Stuyvesant Square",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/stuyvesant-square.webp"
+    },
+    {
+      "id": "manhattan__midtown-south-central",
+      "neighborhood": "Midtown South Central",
+      "borough": "Manhattan",
+      "summaryHtml": "Home to two of New York's best attractions, including the world famous <a target='_blank' href='https://en.wikipedia.org/wiki/Empire_State_Building'>Empire State Building</a> (Fifth Ave and West 34th St) and <a target='_blank' href='https://en.wikipedia.org/wiki/Grand_Central_Terminal'>Grand Central Terminal</a> (42nd St and Park Ave). Koreatown and NoMad also reside in this area.",
+      "summaryText": "Home to two of New York's best attractions, including the world famous Empire State Building (Fifth Ave and West 34th St) and Grand Central Terminal (42nd St and Park Ave). Koreatown and NoMad also reside in this area.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/midtown-south-central.webp"
+    },
+    {
+      "id": "manhattan__murray-hill",
+      "neighborhood": "Murray Hill",
+      "borough": "Manhattan",
+      "summaryHtml": "For much of the 20th century, this neighborhood was a quiet and rather formal place, with many wealthy older residents. Since the late 1990s, many upper-class young professionals in their twenties and thirties have begun to move into the area. On weekends, there is often a raucous restaurant-and-bar scene along Third Avenue. South of Murray Hill, blocks on <a target='_blank' href='https://en.wikipedia.org/wiki/Lexington_Avenue_%28Manhattan%29'>Lexington Avenue</a> around 28th Street are sometimes informally called &quot;Curry Hill&quot;, due to the current high concentration of <a target='_blank' href='https://en.wikipedia.org/wiki/Indian_cuisine'>Indian restaurants</a> and specialized grocery stores.",
+      "summaryText": "For much of the 20th century, this neighborhood was a quiet and rather formal place, with many wealthy older residents. Since the late 1990s, many upper-class young professionals in their twenties and thirties have begun to move into the area. On weekends, there is often a raucous restaurant-and-bar scene along Third Avenue. South of Murray Hill, blocks on Lexington Avenue around 28th Street are sometimes informally called \"Curry Hill\", due to the current high concentration of Indian restaurants and specialized grocery stores.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/murray-hill.webp"
+    },
+    {
+      "id": "manhattan__garment-district",
+      "neighborhood": "Garment District",
+      "borough": "Manhattan",
+      "summaryHtml": "Also known as the Fashion District with its dense concentration of fashion-related uses. The Garment District has been known since the early 20th century as the center for fashion manufacturing and fashion design in the United States, and even the world. Less than one square mile in area, the neighborhood is home to the majority of New York's showrooms and to numerous major fashion labels, and caters to all aspects of the fashion process - from design and production to wholesale selling. In this area <a target='_blank' href='https://en.wikipedia.org/wiki/Seventh_Avenue_(Manhattan)'>7th Avenue</a> is commonly referred to as Fashion Avenue. No other city has a comparable concentration of fashion businesses and talent in a single district.",
+      "summaryText": "Also known as the Fashion District with its dense concentration of fashion-related uses. The Garment District has been known since the early 20th century as the center for fashion manufacturing and fashion design in the United States, and even the world. Less than one square mile in area, the neighborhood is home to the majority of New York's showrooms and to numerous major fashion labels, and caters to all aspects of the fashion process - from design and production to wholesale selling. In this area 7th Avenue is commonly referred to as Fashion Avenue. No other city has a comparable concentration of fashion businesses and talent in a single district.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/garment-district.webp"
+    },
+    {
+      "id": "manhattan__koreatown",
+      "neighborhood": "Koreatown",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/koreatown.webp"
+    },
+    {
+      "id": "manhattan__hells-kitchen",
+      "neighborhood": "Hell's Kitchen",
+      "borough": "Manhattan",
+      "summaryHtml": "Also known as <strong>Clinton</strong>, Hell's Kitchen was once a bastion of poor and working-class <a target='_blank' href='https://en.wikipedia.org/wiki/Irish_American'>Irish Americans</a>. The neighborhood has changed over the last three decades of the 20th century and into the new millennium because its proximity to <a target='_blank' href='https://en.wikipedia.org/wiki/Midtown_Manhattan'>Midtown</a>. It now provides transportation, hospital and warehouse infrastructure support to the Midtown business district. Its gritty reputation kept real estate prices below those of most other areas of Manhattan until the early 1990s. Since then, rent prices have increased enormously, and many famous entertainers have resided here, including <a target='_blank' href='https://en.wikipedia.org/wiki/Burt_Reynolds'>Burt Reynolds</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Bob_Hope'>Bob Hope</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/James_Dean'>James Dean</a>, and <a target='_blank' href='https://en.wikipedia.org/wiki/Jerry_Seinfeld'>Jerry Seinfeld</a>. The southern portion of the neighborhood is now the site of the new <a target='_blank' href='https://en.wikipedia.org/wiki/Hudson_Yards_(development)'>Hudson Yards development</a>, the largest private real estate development in the United States.",
+      "summaryText": "Also known as Clinton, Hell's Kitchen was once a bastion of poor and working-class Irish Americans. The neighborhood has changed over the last three decades of the 20th century and into the new millennium because its proximity to Midtown. It now provides transportation, hospital and warehouse infrastructure support to the Midtown business district. Its gritty reputation kept real estate prices below those of most other areas of Manhattan until the early 1990s. Since then, rent prices have increased enormously, and many famous entertainers have resided here, including Burt Reynolds, Bob Hope, James Dean, and Jerry Seinfeld. The southern portion of the neighborhood is now the site of the new Hudson Yards development, the largest private real estate development in the United States.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/hells-kitchen.webp"
+    },
+    {
+      "id": "manhattan__theater-district",
+      "neighborhood": "Theater District",
+      "borough": "Manhattan",
+      "summaryHtml": "This district is where most <a target='_blank' href='https://en.wikipedia.org/wiki/Broadway_theatre'>Broadway theatres</a> are located, as well as many other theatres, movie theatres, restaurants, hotels and other places of entertainment. Theatre Row is the popular name for a section of <a target='_blank' href='https://en.wikipedia.org/wiki/42nd_Street_%28Manhattan%29'>42nd Street</a> in New York City, which is the location for a number of small theatres; it is also the name of a large theatre complex built in 2000 to house six theatres. At the southern end is the brightly illuminated hub, <a target='_blank' href='https://en.wikipedia.org/wiki/Times_Square'>Times Square</a>. It is a world-famous, major commercial intersection, iconified as &quot;The Crossroads of the World&quot;. Times Square is said to be one of the world's most visited tourist attraction, bringing in over 50 million visitors annually.",
+      "summaryText": "This district is where most Broadway theatres are located, as well as many other theatres, movie theatres, restaurants, hotels and other places of entertainment. Theatre Row is the popular name for a section of 42nd Street in New York City, which is the location for a number of small theatres; it is also the name of a large theatre complex built in 2000 to house six theatres. At the southern end is the brightly illuminated hub, Times Square. It is a world-famous, major commercial intersection, iconified as \"The Crossroads of the World\". Times Square is said to be one of the world's most visited tourist attraction, bringing in over 50 million visitors annually.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/theater-district.webp"
+    },
+    {
+      "id": "manhattan__midtown-center",
+      "neighborhood": "Midtown Center",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/midtown-center.webp"
+    },
+    {
+      "id": "manhattan__midtown-east",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/midtown-east.webp"
+    },
+    {
+      "id": "manhattan__sutton-place",
+      "neighborhood": "Sutton Place",
+      "borough": "Manhattan",
+      "summaryHtml": "Sutton Place is one of the most affluent streets. The luxury townhouses have been called home by many celebrities. Sutton Place encompasses two public parks overlooking the East River, which have undergone much controversy given the close proximity to <a target='_blank' href='https://en.wikipedia.org/wiki/FDR_Drive'>FDR Drive</a>, a major expressway along Manhattan's eastern edge. One of these parks is, in fact, cantilevered over the expressway. Sutton Place is present in much popular culture, being the famous <a target='_blank' href='https://en.wikipedia.org/wiki/Dead_End'>Dead End</a> of the 1935 play and 1937 movie of that name, and mentioned in the novel <a target='_blank' href='https://en.wikipedia.org/wiki/Catcher_in_the_Rye'>Catcher in the Rye</a> as the location of a &quot;swanky&quot; apartment.",
+      "summaryText": "Sutton Place is one of the most affluent streets. The luxury townhouses have been called home by many celebrities. Sutton Place encompasses two public parks overlooking the East River, which have undergone much controversy given the close proximity to FDR Drive, a major expressway along Manhattan's eastern edge. One of these parks is, in fact, cantilevered over the expressway. Sutton Place is present in much popular culture, being the famous Dead End of the 1935 play and 1937 movie of that name, and mentioned in the novel Catcher in the Rye as the location of a \"swanky\" apartment.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/sutton-place.webp"
+    },
+    {
+      "id": "manhattan__upper-east-side",
+      "neighborhood": "Upper East Side",
+      "borough": "Manhattan",
+      "summaryHtml": "Once known as the &quot;Silk <a target='_blank' href='https://en.wikipedia.org/wiki/Stockings'>Stocking</a> District&quot;, it retains its position as one of the most affluent neighborhoods of New York City. The Upper East Side maintains one of the highest pricing per square foot in the United States. A 2002 report cited the average cost per square foot as $856; however, that price has noticed a substantial jump, increasing to almost as much as $1,200 per square foot as of 2006. The area is host to some of the most famous museums in the world. The string of museums along Fifth Avenue fronting Central Park has been dubbed &quot;<a target='_blank' href='https://en.wikipedia.org/wiki/Museum_Mile,_New_York'>Museum Mile</a>&quot;. It was once named &quot;Millionaire's Row.&quot;.",
+      "summaryText": "Once known as the \"Silk Stocking District\", it retains its position as one of the most affluent neighborhoods of New York City. The Upper East Side maintains one of the highest pricing per square foot in the United States. A 2002 report cited the average cost per square foot as $856; however, that price has noticed a substantial jump, increasing to almost as much as $1,200 per square foot as of 2006. The area is host to some of the most famous museums in the world. The string of museums along Fifth Avenue fronting Central Park has been dubbed \"Museum Mile\". It was once named \"Millionaire's Row.\".",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/upper-east-side.webp"
+    },
+    {
+      "id": "manhattan__upper-west-side",
+      "neighborhood": "Upper West Side",
+      "borough": "Manhattan",
+      "summaryHtml": "Like the <a target='_blank' href='https://en.wikipedia.org/wiki/Upper_East_Side'>Upper East Side</a>, the Upper West Side is an upscale, primarily residential area, with many of its residents working in more commercial areas in <a target='_blank' href='https://en.wikipedia.org/wiki/Midtown_Manhattan'>Midtown</a> and <a target='_blank' href='https://en.wikipedia.org/wiki/Lower_Manhattan'>Lower Manhattan</a>. It has the reputation of being home to New York City's cultural and artistic workers, while the Upper East Side is traditionally perceived to be home to commercial and business types. Many landmarks and institutions are located here, including the <a target='_blank' href='https://en.wikipedia.org/wiki/Beacon_Theatre_%28New_York_City%29'>Beacon Theater</a>, the <a target='_blank' href='https://en.wikipedia.org/wiki/American_Museum_of_Natural_History'>American Museum of Natural History</a>, and the <a target='_blank' href='https://en.wikipedia.org/wiki/Lincoln_Center'>Lincoln Center</a>",
+      "summaryText": "Like the Upper East Side, the Upper West Side is an upscale, primarily residential area, with many of its residents working in more commercial areas in Midtown and Lower Manhattan. It has the reputation of being home to New York City's cultural and artistic workers, while the Upper East Side is traditionally perceived to be home to commercial and business types. Many landmarks and institutions are located here, including the Beacon Theater, the American Museum of Natural History, and the Lincoln Center",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/upper-west-side.webp"
+    },
+    {
+      "id": "manhattan__east-harlem",
+      "neighborhood": "East Harlem",
+      "borough": "Manhattan",
+      "summaryHtml": "Also known as <strong>Spanish Harlem</strong> and <strong>El Barrio</strong>, East Harlem is one of largest Latino neighborhoods in New York City, known for its influence on <a target='_blank' href='https://en.wikipedia.org/wiki/Salsa_music'>salsa music</a> and <a target='_blank' href='https://en.wikipedia.org/wiki/Latin_freestyle'>Latin freestyle</a>. Until the late 19th century it was predominantly rural. In the 1870s Italians settled here in what became known as <strong>Italian Harlem</strong>. This included many crime syndicates such as the <a target='_blank' href='https://en.wikipedia.org/wiki/Black_Hand_(extortion)'>Black Hand</a> and eventually the <a target='_blank' href='https://en.wikipedia.org/wiki/Italian-American_Mafia'>Italian-American Mafia</a>. The <a target='_blank' href='https://en.wikipedia.org/wiki/Genovese_crime_family'>Genovese crime family</a>, one of the notorious <a target='_blank' href='https://en.wikipedia.org/wiki/Five_Families'>Five Families</a>, was formed in East Harlem. Following a plague of crime and poverty in the mid 20th century, much of East Harlem was leveled to make way for <a target='_blank' href='https://en.wikipedia.org/wiki/Public_housing_in_the_United_States'>public housing</a>, now the second-highest concentration in the country. Today the area is slowly succumbing to <a target='_blank' href='https://en.wikipedia.org/wiki/Gentrification'>gentrification</a>, with a growing number Chinese population.",
+      "summaryText": "Also known as Spanish Harlem and El Barrio, East Harlem is one of largest Latino neighborhoods in New York City, known for its influence on salsa music and Latin freestyle. Until the late 19th century it was predominantly rural. In the 1870s Italians settled here in what became known as Italian Harlem. This included many crime syndicates such as the Black Hand and eventually the Italian-American Mafia. The Genovese crime family, one of the notorious Five Families, was formed in East Harlem. Following a plague of crime and poverty in the mid 20th century, much of East Harlem was leveled to make way for public housing, now the second-highest concentration in the country. Today the area is slowly succumbing to gentrification, with a growing number Chinese population.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/east-harlem.webp"
+    },
+    {
+      "id": "manhattan__carnegie-hill",
+      "neighborhood": "Carnegie Hill",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/carnegie-hill.webp"
+    },
+    {
+      "id": "manhattan__morningside-heights",
+      "neighborhood": "Morningside Heights",
+      "borough": "Manhattan",
+      "summaryHtml": "This neighborhood is chiefly known as the home of institutions such as <a target='_blank' href='https://en.wikipedia.org/wiki/Columbia_University'>Columbia University</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Teachers_College,_Columbia_University'>Teachers College</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Barnard_College'>Barnard College</a>, the <a target='_blank' href='https://en.wikipedia.org/wiki/Manhattan_School_of_Music'>Manhattan School of Music</a>, among others. The neighborhood has been referred to as a &quot;<a target='_blank' href='https://en.wikipedia.org/wiki/College_town'>college town</a>&quot; within New York City, the &quot;Academic Acropolis&quot;, the &quot;Acropolis of New York&quot;, and &quot;Bloomingdale Village&quot;. A famous restaurant in Morningside Heights is <a target='_blank' href='https://en.wikipedia.org/wiki/Tom%27s_Restaurant_%28Manhattan%29'>Tom's Restaurant</a>, on <a target='_blank' href='https://en.wikipedia.org/wiki/Broadway_%28New_York_City%29'>Broadway</a> at W. 112th St, as seen on the popular sitcom <a target='_blank' href='https://en.wikipedia.org/wiki/Seinfeld'>Seinfeld</a>.",
+      "summaryText": "This neighborhood is chiefly known as the home of institutions such as Columbia University, Teachers College, Barnard College, the Manhattan School of Music, among others. The neighborhood has been referred to as a \"college town\" within New York City, the \"Academic Acropolis\", the \"Acropolis of New York\", and \"Bloomingdale Village\". A famous restaurant in Morningside Heights is Tom's Restaurant, on Broadway at W. 112th St, as seen on the popular sitcom Seinfeld.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/morningside-heights.webp"
+    },
+    {
+      "id": "manhattan__harlem",
+      "neighborhood": "Harlem",
+      "borough": "Manhattan",
+      "summaryHtml": "Since the 1920s, Harlem has been a major <a target='_blank' href='https://en.wikipedia.org/wiki/African-American'>African-American</a> residential, cultural and business center. Originally a Dutch village, formally organized in 1658, it is named after the city of <a target='_blank' href='https://en.wikipedia.org/wiki/Haarlem'>Haarlem</a> in the <a target='_blank' href='https://en.wikipedia.org/wiki/Netherlands'>Netherlands</a>. Harlem has been defined by a series of <a target='_blank' href='https://en.wikipedia.org/wiki/Boom-and-bust'>boom-and-bust</a> cycles, with significant ethnic shifts accompanying each cycle. Black residents began to arrive en masse in 1904, with numbers fed by the <a target='_blank' href='https://en.wikipedia.org/wiki/Great_Migration_%28African_American%29'>Great Migration</a>. In the 1920s and 1930s, the neighborhood was the focus of the &quot;<a target='_blank' href='https://en.wikipedia.org/wiki/Harlem_Renaissance'>Harlem Renaissance</a>&quot;, an explosion of artistic and intellectual works by the American black community. The world famous <a target='_blank' href='https://en.wikipedia.org/wiki/Apollo_Theater'>Apollo Theater</a> opened in 1934 in a former <a target='_blank' href='https://en.wikipedia.org/wiki/Burlesque_house'>burlesque house</a>. Crime was long a problem, beginning with the <a target='_blank' href='https://en.wikipedia.org/wiki/Italian_Mafia'>Italian Mafia</a> in the early 1900s. The Mafia and the local blacks engaged in <a target='_blank' href='https://en.wikipedia.org/wiki/Numbers_game'>numbers game</a> gambling. Police were <a target='_blank' href='https://en.wikipedia.org/wiki/Bribe'>bribed</a> to ignore the billions of dollars that were at play in the early 1950s. By this time the neighborhood was plagued with poverty and high mortality rates. The 1980s brought the <a target='_blank' href='https://en.wikipedia.org/wiki/Crack_epidemic'>crack epidemic</a> and with it violent crime. Under the <a target='_blank' href='https://en.wikipedia.org/wiki/David_Dinkins'>Dinkins</a> and <a target='_blank' href='https://en.wikipedia.org/wiki/Rudy_Giuliani'>Giuliani</a> mayoral administrations, crime finally was under control by the 1990s. Today it largely enjoys the safety found in the rest of Manhattan. Harlem is known for its exquisite <a target='_blank' href='https://en.wikipedia.org/wiki/Soul_food'>soul food</a>. As of 2019, for every supermarket in Central Harlem, there are 11 <a href='https://en.wikipedia.org/wiki/Convenience_store'>bodegas</a>.",
+      "summaryText": "Since the 1920s, Harlem has been a major African-American residential, cultural and business center. Originally a Dutch village, formally organized in 1658, it is named after the city of Haarlem in the Netherlands. Harlem has been defined by a series of boom-and-bust cycles, with significant ethnic shifts accompanying each cycle. Black residents began to arrive en masse in 1904, with numbers fed by the Great Migration. In the 1920s and 1930s, the neighborhood was the focus of the \"Harlem Renaissance\", an explosion of artistic and intellectual works by the American black community. The world famous Apollo Theater opened in 1934 in a former burlesque house. Crime was long a problem, beginning with the Italian Mafia in the early 1900s. The Mafia and the local blacks engaged in numbers game gambling. Police were bribed to ignore the billions of dollars that were at play in the early 1950s. By this time the neighborhood was plagued with poverty and high mortality rates. The 1980s brought the crack epidemic and with it violent crime. Under the Dinkins and Giuliani mayoral administrations, crime finally was under control by the 1990s. Today it largely enjoys the safety found in the rest of Manhattan. Harlem is known for its exquisite soul food. As of 2019, for every supermarket in Central Harlem, there are 11 bodegas.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/harlem.webp"
+    },
+    {
+      "id": "manhattan__sugar-hill",
+      "neighborhood": "Sugar Hill",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/sugar-hill.webp"
+    },
+    {
+      "id": "manhattan__manhattanville",
+      "neighborhood": "Manhattanville",
+      "borough": "Manhattan",
+      "summaryHtml": "Throughout the 19th century, Manhattanville was a town that bustled around a wharf active with ferry and daily river conveyances. Situated near the famous Bloomingdale Road (today <a target='_blank' href='https://en.wikipedia.org/wiki/Broadway_(Manhattan)'>Broadway</a>), its hotels, houses of entertainment and post office made it an alluring destination of suburban retreat from the city. With the construction of road and railway viaducts over the valley in which the town sat, Manhattanville, increasingly absorbed into the growing city, became a marginalized industrial area. The neighborhood is now the site of a major planned expansion of <a target='_blank' href='https://en.wikipedia.org/wiki/Columbia_University'>Columbia University</a>, which has campuses in Morningside Heights to the south and <a target='_blank' href='https://en.wikipedia.org/wiki/Washington_Heights,_Manhattan'>Washington Heights</a> to the north.",
+      "summaryText": "Throughout the 19th century, Manhattanville was a town that bustled around a wharf active with ferry and daily river conveyances. Situated near the famous Bloomingdale Road (today Broadway), its hotels, houses of entertainment and post office made it an alluring destination of suburban retreat from the city. With the construction of road and railway viaducts over the valley in which the town sat, Manhattanville, increasingly absorbed into the growing city, became a marginalized industrial area. The neighborhood is now the site of a major planned expansion of Columbia University, which has campuses in Morningside Heights to the south and Washington Heights to the north.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/manhattanville.webp"
+    },
+    {
+      "id": "manhattan__hamilton-heights",
+      "neighborhood": "Hamilton Heights",
+      "borough": "Manhattan",
+      "summaryHtml": "The community derives its name from Founding Father <a target='_blank' href='https://en.wikipedia.org/wiki/Alexander_Hamilton'>Alexander Hamilton</a>, who lived the last two years of his life in the area when it was still largely farmland. Most of the housing here dates from the extension of the elevated and subway lines at the end of the 19th and the start of the 20th Century. The brownstone revival of the 1960s and 1970s led to a new movement of middle-class blacks in the area. Latinos arrived in large numbers in the 1980s, with Dominicans making up the majority. Today the local population is changing again, with <a target='_blank' href='https://en.wikipedia.org/wiki/Hispanic'>Hispanics</a> constituting a majority of the population. Many actors, artists, teachers, and other professionals now reside in Hamilton Heights. Hamilton Heights is the home of <a target='_blank' href='https://en.wikipedia.org/wiki/City_College_of_New_York'>City College of New York</a> (CCNY), <a target='_blank' href='https://en.wikipedia.org/wiki/Dance_Theatre_of_Harlem'>Dance Theatre of Harlem</a>, and <a target='_blank' href='https://en.wikipedia.org/wiki/The_Harlem_School_of_the_Arts'>The Harlem School of the Arts</a>.",
+      "summaryText": "The community derives its name from Founding Father Alexander Hamilton, who lived the last two years of his life in the area when it was still largely farmland. Most of the housing here dates from the extension of the elevated and subway lines at the end of the 19th and the start of the 20th Century. The brownstone revival of the 1960s and 1970s led to a new movement of middle-class blacks in the area. Latinos arrived in large numbers in the 1980s, with Dominicans making up the majority. Today the local population is changing again, with Hispanics constituting a majority of the population. Many actors, artists, teachers, and other professionals now reside in Hamilton Heights. Hamilton Heights is the home of City College of New York (CCNY), Dance Theatre of Harlem, and The Harlem School of the Arts.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/hamilton-heights.webp"
+    },
+    {
+      "id": "manhattan__washington-heights",
+      "neighborhood": "Washington Heights",
+      "borough": "Manhattan",
+      "summaryHtml": "Manhattan's highest natural elevation, 265 ft (80.8 m) above sea level, at what was the location of <a target='_blank' href='https://en.wikipedia.org/wiki/Fort_Washington_(Manhattan)'>Fort Washington</a>. This played a critical role during the <a target='_blank' href='https://en.wikipedia.org/wiki/Battle_of_Fort_Washington'>Battle of Fort Washington</a>, which occurred on November 16, 1776, when the fort fell to the British at great cost to American forces. Over the years, the area has been home to Irish immigrants, European Jews escaping Nazism, and later many Greeks. The community was often referred to as the &quot;<a target='_blank' href='https://en.wikipedia.org/wiki/Astoria,_Queens'>Astoria of Manhattan</a>&quot;. In the 1980s, the area was severely affected by the <a target='_blank' href='https://en.wikipedia.org/wiki/Crack_Epidemic'>crack cocaine epidemic</a>, much of this attributed to the rampant gang activity of the time. In the 1980s, Washington Heights was the epicenter of the Dominican <a target='_blank' href='https://en.wikipedia.org/wiki/Diaspora'>diaspora</a> in the United States. By the 2000s, urban renewal began, along with white <a target='_blank' href='https://en.wikipedia.org/wiki/Gentrification'>gentrification</a>. Today, the majority of the population continues to be <a target='_blank' href='https://en.wikipedia.org/wiki/Dominican_Republic'>Dominican</a>.",
+      "summaryText": "Manhattan's highest natural elevation, 265 ft (80.8 m) above sea level, at what was the location of Fort Washington. This played a critical role during the Battle of Fort Washington, which occurred on November 16, 1776, when the fort fell to the British at great cost to American forces. Over the years, the area has been home to Irish immigrants, European Jews escaping Nazism, and later many Greeks. The community was often referred to as the \"Astoria of Manhattan\". In the 1980s, the area was severely affected by the crack cocaine epidemic, much of this attributed to the rampant gang activity of the time. In the 1980s, Washington Heights was the epicenter of the Dominican diaspora in the United States. By the 2000s, urban renewal began, along with white gentrification. Today, the majority of the population continues to be Dominican.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/washington-heights.webp"
+    },
+    {
+      "id": "manhattan__fort-george",
+      "neighborhood": "Fort George",
+      "borough": "Manhattan",
+      "summaryHtml": "Fort George was one of five forts in the state of <a target='_blank' href='https://en.wikipedia.org/wiki/New_York_(state)'>New York</a>. There were four evolutions of Fort George, last is located here. Briefly named Fort Clinton and finally Fort George, from 1895 to 1914 it was the site of the Fort George Amusement Park, and is now <a target='_blank' href='https://en.wikipedia.org/wiki/George_Washington_High_School_%28New_York_City%29'>George Washington High School</a>. Fort George is a sub-neighborhood of <a target='_blank' href='https://en.wikipedia.org/wiki/Washington_Heights,_Manhattan'>Washington Heights</a>, and shares much of it's overall history.",
+      "summaryText": "Fort George was one of five forts in the state of New York. There were four evolutions of Fort George, last is located here. Briefly named Fort Clinton and finally Fort George, from 1895 to 1914 it was the site of the Fort George Amusement Park, and is now George Washington High School. Fort George is a sub-neighborhood of Washington Heights, and shares much of it's overall history.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/fort-george.webp"
+    },
+    {
+      "id": "manhattan__hudson-heights",
+      "neighborhood": "Hudson Heights",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/hudson-heights.webp"
+    },
+    {
+      "id": "manhattan__inwood",
+      "neighborhood": "Inwood",
+      "borough": "Manhattan",
+      "summaryHtml": "Inwood is the northernmost neighborhood on the island of Manhattan, but not the northernmost neighborhood of the borough of Manhattan. That distinction is held by <a target='_blank' href='https://en.wikipedia.org/wiki/Marble_Hill,_Manhattan,_New_York'>Marble Hill</a>, situated just north of Inwood. Because of its water boundary on three sides, the hilly geography, and the limited local street connections, the neighborhood can feel somewhat physically detached from the rest of the borough. Inwood is moderately large in area for a Manhattan neighborhood, and its real estate is sharply divided between east and west. The area east of Broadway is more lower-income and industrial, with few parks and trees. <a target='_blank' href='https://en.wikipedia.org/wiki/Inwood_Hill_Park'>Inwood Hill Park</a>, on the Hudson River, is known for its its caves that were used by the <a target='_blank' href='https://en.wikipedia.org/wiki/Lenape'>Lenape</a> Native Americans. The park is home to Manhattan's last <a target='_blank' href='https://en.wikipedia.org/wiki/Old-growth_forest'>natural wooded area</a> and the last natural <a target='_blank' href='https://en.wikipedia.org/wiki/Salt_marsh'>salt marsh</a>. It is a goldmine for birdwatchers and animal lovers. <a target='_blank' href='https://en.wikipedia.org/wiki/Red-tailed_hawk'>Red-tailed hawks</a>, owls, <a target='_blank' href='https://en.wikipedia.org/wiki/Bald_eagle'>bald eagles</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Wild_turkey'>wild turkeys</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Opossum'>opossums</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Cottontail_rabbit'>cottontail rabbits</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Raccoon'>raccoons</a>, <a target='_blank' href='https://en.wikipedia.org/wiki/Southern_flying_squirrel'>flying squirrels</a> and <a target='_blank' href='https://en.wikipedia.org/wiki/Salamander'>salamanders</a> all can be found here.",
+      "summaryText": "Inwood is the northernmost neighborhood on the island of Manhattan, but not the northernmost neighborhood of the borough of Manhattan. That distinction is held by Marble Hill, situated just north of Inwood. Because of its water boundary on three sides, the hilly geography, and the limited local street connections, the neighborhood can feel somewhat physically detached from the rest of the borough. Inwood is moderately large in area for a Manhattan neighborhood, and its real estate is sharply divided between east and west. The area east of Broadway is more lower-income and industrial, with few parks and trees. Inwood Hill Park, on the Hudson River, is known for its its caves that were used by the Lenape Native Americans. The park is home to Manhattan's last natural wooded area and the last natural salt marsh. It is a goldmine for birdwatchers and animal lovers. Red-tailed hawks, owls, bald eagles, wild turkeys, opossums, cottontail rabbits, raccoons, flying squirrels and salamanders all can be found here.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/inwood.webp"
+    },
+    {
+      "id": "manhattan__turtle-bay",
+      "neighborhood": "Turtle Bay",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/turtle-bay.webp"
+    },
+    {
+      "id": "manhattan__manhattan-valley",
+      "neighborhood": "Manhattan Valley",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/manhattan-valley.webp"
+    },
+    {
+      "id": "manhattan__lincoln-square",
+      "neighborhood": "Lincoln Square",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/lincoln-square.webp"
+    },
+    {
+      "id": "manhattan__lenox-hill",
+      "neighborhood": "Lenox Hill",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/lenox-hill.webp"
+    },
+    {
+      "id": "manhattan__yorkville",
+      "neighborhood": "Yorkville",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/yorkville.webp"
+    },
+    {
+      "id": "manhattan__randalls-island",
+      "neighborhood": "Randall's Island",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/randalls-island.webp"
+    },
+    {
+      "id": "manhattan__west-village",
+      "neighborhood": "West Village",
+      "borough": "Manhattan",
+      "summaryHtml": "Primarily residential, with a multitude of small restaurants, shops and services. Known as &quot;Little Bohemia&quot; starting in 1916, West Village is the center of the <a target='_blank' href='https://en.wikipedia.org/wiki/Bohemianism'>bohemian</a> lifestyle on the West Side, with classic artist's lofts and new residential towers. The neighborhood is distinguished by streets that are &quot;off the grid&quot; — set at an angle to the other streets in Manhattan — sometimes confusing both tourists and city residents alike. These roads were laid out in an 18th century <a target='_blank' href='https://en.wikipedia.org/wiki/Grid_plan'>grid plan</a>, approximately parallel or perpendicular to the <a target='_blank' href='https://en.wikipedia.org/wiki/Hudson_River'>Hudson</a>, long before the <a target='_blank' href='https://en.wikipedia.org/wiki/Commissioners%27_Plan_of_1811'>Commissioners' Plan of 1811</a> which created the main street grid plan for later parts of the city.",
+      "summaryText": "Primarily residential, with a multitude of small restaurants, shops and services. Known as \"Little Bohemia\" starting in 1916, West Village is the center of the bohemian lifestyle on the West Side, with classic artist's lofts and new residential towers. The neighborhood is distinguished by streets that are \"off the grid\" — set at an angle to the other streets in Manhattan — sometimes confusing both tourists and city residents alike. These roads were laid out in an 18th century grid plan, approximately parallel or perpendicular to the Hudson, long before the Commissioners' Plan of 1811 which created the main street grid plan for later parts of the city.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/west-village.webp"
+    },
+    {
+      "id": "manhattan__nomad",
+      "neighborhood": "NoMad",
+      "borough": "Manhattan",
+      "summaryHtml": "NoMad's history shares much with <a target='_blank' href='https://en.wikipedia.org/wiki/Madison_Square_Park'>Madison Square Park</a> to the south, from which the neighborhood gets its name (<strong>No</strong>th of <strong>Mad</strong>ison Square Park). The park was once a military parade ground, and is still the starting point of the annual Veteran's Day Parade. Private brownstones and mansions appeared around the park starting in mid-19th century. Several <a target='_blank' href='https://en.wikipedia.org/wiki/Gentlemen%27s_club'>private social clubs</a> were located here, including the Manhattan Club which gave birth to the popular <a target='_blank' href='https://en.wikipedia.org/wiki/Manhattan_(cocktail)'>Manhattan cocktail</a>. Nearing the 20th century, businesses overtook the residential scene, giving way to the <a target='_blank' href='https://en.wikipedia.org/wiki/Tenderloin,_Manhattan'>Tenderloin red-light district</a>. The world's first <a target='_blank' href='https://en.wikipedia.org/wiki/Kinetoscope'>kintoscope</a> parlor opened in 1894 on 27th and Broadway. By the turn of 20th century, NoMad was home to <a target='_blank' href='https://en.wikipedia.org/wiki/Tin_Pan_Alley'>Tin Pan Alley</a>, where the most prominent American music publishers and songwriters conveined. NoMad features several cultural gems such as the New York Comedy Club and the <a target='_blank' href='https://en.wikipedia.org/wiki/Museum_of_Sex'>Museum of Sex</a>. The Evelyn hotel, a tribute to pop artist <a target='_blank' href='https://en.wikipedia.org/wiki/Andy_Warhol'>Andy Warhol</a>, is also located here.",
+      "summaryText": "NoMad's history shares much with Madison Square Park to the south, from which the neighborhood gets its name (Noth of Madison Square Park). The park was once a military parade ground, and is still the starting point of the annual Veteran's Day Parade. Private brownstones and mansions appeared around the park starting in mid-19th century. Several private social clubs were located here, including the Manhattan Club which gave birth to the popular Manhattan cocktail. Nearing the 20th century, businesses overtook the residential scene, giving way to the Tenderloin red-light district. The world's first kintoscope parlor opened in 1894 on 27th and Broadway. By the turn of 20th century, NoMad was home to Tin Pan Alley, where the most prominent American music publishers and songwriters conveined. NoMad features several cultural gems such as the New York Comedy Club and the Museum of Sex. The Evelyn hotel, a tribute to pop artist Andy Warhol, is also located here.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/nomad.webp"
+    },
+    {
+      "id": "manhattan__tudor-city",
+      "neighborhood": "Tudor City",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/tudor-city.webp"
+    },
+    {
+      "id": "manhattan__diamond-district",
+      "neighborhood": "Diamond District",
+      "borough": "Manhattan",
+      "summaryHtml": "The area is one of the primary centers of the global diamond industry. It was created when dealers moved north from an earlier district near <a target='_blank' href='https://en.wikipedia.org/wiki/Canal_Street_%28Manhattan%29'>Canal Street</a> and the <a target='_blank' href='https://en.wikipedia.org/wiki/Bowery'>Bowery</a>, and from the <a target='_blank' href='https://en.wikipedia.org/wiki/Financial_District,_Manhattan'>Financial District</a>. It grew in importance when the <a target='_blank' href='https://en.wikipedia.org/wiki/Nazis'>German Nazis</a> invaded the <a target='_blank' href='https://en.wikipedia.org/wiki/Netherlands'>Netherlands</a> and <a target='_blank' href='https://en.wikipedia.org/wiki/Belgium'>Belgium</a>, forcing thousands of <a target='_blank' href='https://en.wikipedia.org/wiki/Orthodox_Jews'>Orthodox Jews</a> in the diamond business to flee to New York City. An estimated 90% of diamonds in the United States enter through this area. Total receipts for the value of a single day's trade on the block average $400 million.",
+      "summaryText": "The area is one of the primary centers of the global diamond industry. It was created when dealers moved north from an earlier district near Canal Street and the Bowery, and from the Financial District. It grew in importance when the German Nazis invaded the Netherlands and Belgium, forcing thousands of Orthodox Jews in the diamond business to flee to New York City. An estimated 90% of diamonds in the United States enter through this area. Total receipts for the value of a single day's trade on the block average $400 million.",
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/diamond-district.webp"
+    },
+    {
+      "id": "manhattan__roosevelt-island",
+      "neighborhood": "Roosevelt Island",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/roosevelt-island.webp"
+    },
+    {
+      "id": "manhattan__marble-hill",
+      "neighborhood": "Marble Hill",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/marble-hill.webp"
+    },
+    {
+      "id": "manhattan__rose-hill",
+      "neighborhood": "Rose Hill",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/rose-hill.webp"
+    },
+    {
+      "id": "manhattan__restaurant-row",
+      "neighborhood": "Restaurant Row",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/restaurant-row.webp"
+    },
+    {
+      "id": "manhattan__liberty-island",
+      "neighborhood": "Liberty Island",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/liberty-island.webp"
+    },
+    {
+      "id": "manhattan__ellis-island",
+      "neighborhood": "Ellis Island",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/ellis-island.webp"
+    },
+    {
+      "id": "manhattan__governors-island",
+      "neighborhood": "Governors Island",
+      "borough": "Manhattan",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/manhattan/governors-island.webp"
+    },
+    {
+      "id": "brooklyn__dumbo",
+      "neighborhood": "Dumbo",
+      "borough": "Brooklyn",
+      "summaryHtml": "Dumbo (short for <b>D</b>own <b>U</b>nderneath the <b>M</b>anhattan <b>B</b>ridge <b>O</b>verpass) encompasses the area where the <a href='https://en.wikipedia.org/wiki/Manhattan_Bridge' target='_blank'>Manhattan</a> and <a href='https://en.wikipedia.org/wiki/Brooklyn_Bridge' target='_blank'>Brooklyn Bridges</a> meet in Brooklyn. Historically it has served as one of New York's premier manufacturing districts. Following the deindustrialization of New York, it began to attract young artists in the late 1970s, before being purchased in its entirety by <a href='https://en.wikipedia.org/wiki/David_Walentas' target='_blank'>David Walentas</a> and his company in the late 20th century. Since then, it has become one of the most expensive neighborhoods in Brooklyn and home to New York's largest concentration of technology <a href='https://en.wikipedia.org/wiki/Startup_company' target='_blank'>startups</a>. Many of the former industrial buildings still stand today as luxury residential lofts. The <a href='https://en.wikipedia.org/wiki/Belgian_block' target='_blank'>Belgian block</a> streets and abandoned street railways give the neighborhood a unique character compared to much of New York and a glimpse into its industrial past, while the <a href='https://en.wikipedia.org/wiki/Brooklyn_Bridge_Park' target='_blank'>Brooklyn Bridge Park</a> and <a href='https://en.wikipedia.org/wiki/Fulton_Ferry,_Brooklyn' target='_blank'>Fulton Ferry landing</a> offer stunning views of <a href='https://en.wikipedia.org/wiki/Lower_Manhattan' target='_blank'>Lower Manhattan</a>. Dumbo is home to <a href='https://en.wikipedia.org/wiki/Grimaldi's_Pizzeria' target='_blank'>Grimaldi's</a>, one of New York's most famous pizzerias, <a href='https://en.wikipedia.org/wiki/Jacques_Torres' target='_blank'>Jacques Torres</a>' chocolate factory, the <a href='https://en.wikipedia.org/wiki/Brooklyn_Ice_Cream_Factory' target='_blank'>Brooklyn Ice Cream Factory</a>, and <a href='https://en.wikipedia.org/wiki/Bargemusic' target='_blank'>Bargemusic</a>, a floating <a href='https://en.wikipedia.org/wiki/Classical_music' target='_blank'>classical music</a> venue. The Dumbo Historic District was designated on the <a href='https://en.wikipedia.org/wiki/National_Register_of_Historic_Places' target='_blank'>National Register of Historic Places</a> in 2000.",
+      "summaryText": "Dumbo (short for Down Underneath the Manhattan Bridge Overpass) encompasses the area where the Manhattan and Brooklyn Bridges meet in Brooklyn. Historically it has served as one of New York's premier manufacturing districts. Following the deindustrialization of New York, it began to attract young artists in the late 1970s, before being purchased in its entirety by David Walentas and his company in the late 20th century. Since then, it has become one of the most expensive neighborhoods in Brooklyn and home to New York's largest concentration of technology startups. Many of the former industrial buildings still stand today as luxury residential lofts. The Belgian block streets and abandoned street railways give the neighborhood a unique character compared to much of New York and a glimpse into its industrial past, while the Brooklyn Bridge Park and Fulton Ferry landing offer stunning views of Lower Manhattan. Dumbo is home to Grimaldi's, one of New York's most famous pizzerias, Jacques Torres' chocolate factory, the Brooklyn Ice Cream Factory, and Bargemusic, a floating classical music venue. The Dumbo Historic District was designated on the National Register of Historic Places in 2000.",
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/dumbo.webp"
+    },
+    {
+      "id": "brooklyn__vinegar-hill",
+      "neighborhood": "Vinegar Hill",
+      "borough": "Brooklyn",
+      "summaryHtml": "Vinegar Hill was originally settled by Canersee <a href='https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States' target='_blank'>American Indians</a>, before the <a href='https://en.wikipedia.org/wiki/Dutch_people' target='_blank'>Dutch</a> arrived in the early 17th century. Eventually it become home to a large Irish-American population, giving it the nickname <b>Irishtown</b>, who worked at the Navy Yard and ran illegal <a href='https://en.wikipedia.org/wiki/Moonshine' target='_blank'>moonshine</a> distilleries. The Vinegar Hill name comes from the <a href='https://en.wikipedia.org/wiki/Battle_of_Vinegar_Hill' target='_blank'>Battle of Vinegar Hill</a>, a major conflict of the <a href='https://en.wikipedia.org/wiki/Irish_Rebellion_of_1798' target='_blank'>1798 Irish Rebellion</a>. Much of the area was leveled when the <a href='https://en.wikipedia.org/wiki/Manhattan_Bridge' target='_blank'>Manhattan Bridge</a> was constructed, and New York's industrial growth replaced many homes with factories. Following the <a href='https://en.wikipedia.org/wiki/World_War_I' target='_blank'>First World War</a>, it become a predominantly Lithuanian neighborhood, which continued through the 1960s. Just as with the neighboring <a href='https://en.wikipedia.org/wiki/Dumbo,_Brooklyn' target='_blank'>Dumbo</a>, the 1970s invited many young artists, and today the area is a relatively quiet residential neighborhood.",
+      "summaryText": "Vinegar Hill was originally settled by Canersee American Indians, before the Dutch arrived in the early 17th century. Eventually it become home to a large Irish-American population, giving it the nickname Irishtown, who worked at the Navy Yard and ran illegal moonshine distilleries. The Vinegar Hill name comes from the Battle of Vinegar Hill, a major conflict of the 1798 Irish Rebellion. Much of the area was leveled when the Manhattan Bridge was constructed, and New York's industrial growth replaced many homes with factories. Following the First World War, it become a predominantly Lithuanian neighborhood, which continued through the 1960s. Just as with the neighboring Dumbo, the 1970s invited many young artists, and today the area is a relatively quiet residential neighborhood.",
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/vinegar-hill.webp"
+    },
+    {
+      "id": "brooklyn__brooklyn-navy-yard",
+      "neighborhood": "Brooklyn Navy Yard",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/brooklyn-navy-yard.webp"
+    },
+    {
+      "id": "brooklyn__brooklyn-heights",
+      "neighborhood": "Brooklyn Heights",
+      "borough": "Brooklyn",
+      "summaryHtml": "Originally known as <b>Brooklyn Village</b>, Brooklyn Heights is an affluent residential neighborhood known for its architecture, specifically <a href='https://en.wikipedia.org/wiki/Brownstone' target='_blank'>brownstone</a> <a href='https://en.wikipedia.org/wiki/Rowhouses' target='_blank'>rowhouses</a> dating to before the <a href='https://en.wikipedia.org/wiki/American_Civil_War' target='_blank'>Civil War</a>. The neighborhood sits atop a <a href='https://en.wikipedia.org/wiki/Plateau' target='_blank'>plateau</a> with that rises abruptly from the shoreline, which was heavily fortified leading up to the <a href='https://en.wikipedia.org/wiki/American_Revolutionary_War' target='_blank'>Revolutionary War</a>. The area was mostly farmland until <a href='https://en.wikipedia.org/wiki/Robert_Fulton' target='_blank'>Robert Fulton</a>'s ferry company started offering regular service in 1814. Brooklyn Heights was billed as 'country retreat' for Manhattan merchants and bankers, leading to what became the first <a href='https://en.wikipedia.org/wiki/Commuter_town' target='_blank'>commuter suburb</a>. The construction of the <a href='https://en.wikipedia.org/wiki/Brooklyn_Queens_Expressway' target='_blank'>Brooklyn Queens Expressway</a> leveled many of the old rowhouses, and the <a href='https://en.wikipedia.org/wiki/Housing_Act_of_1949' target='_blank'>Housing Act of 1949</a> threatened to replace more of them with luxury apartment buildings. A deal was made between the community and City Hall to preserve most of the neighborhood, which remains largely untouched today. The <a href='https://en.wikipedia.org/wiki/Brooklyn_Heights_Promenade' target='_blank'>Brooklyn Heights Promenade</a> forms the western boundary, offering magnificent views of <a href='https://en.wikipedia.org/wiki/Lower_Manhattan' target='_blank'>Lower Manhattan</a> and the <a href='https://en.wikipedia.org/wiki/Statue_of_Liberty' target='_blank'>Statue of Liberty</a>. Many notable people have called Brooklyn Heights home, including <a href='https://en.wikipedia.org/wiki/H._P._Lovecraft' target='_blank'>H. P. Lovecraft</a>, <a href='https://en.wikipedia.org/wiki/Matt_Damon' target='_blank'>Matt Damon</a>, <a href='https://en.wikipedia.org/wiki/Bj%C3%B6rk' target='_blank'>Björk</a>, and <a href='https://en.wikipedia.org/wiki/Mary_Tyler_Moore' target='_blank'>Mary Tyler Moore</a>. The <a href='https://en.wikipedia.org/wiki/Brooklyn_Heights_Historic_District' target='_blank'>Brooklyn Heights Historic District</a> was added to the <a href='https://en.wikipedia.org/wiki/National_Register_of_Historic_Places' target='_blank'>National Register of Historic Places</a> in 1966.",
+      "summaryText": "Originally known as Brooklyn Village, Brooklyn Heights is an affluent residential neighborhood known for its architecture, specifically brownstone rowhouses dating to before the Civil War. The neighborhood sits atop a plateau with that rises abruptly from the shoreline, which was heavily fortified leading up to the Revolutionary War. The area was mostly farmland until Robert Fulton's ferry company started offering regular service in 1814. Brooklyn Heights was billed as 'country retreat' for Manhattan merchants and bankers, leading to what became the first commuter suburb. The construction of the Brooklyn Queens Expressway leveled many of the old rowhouses, and the Housing Act of 1949 threatened to replace more of them with luxury apartment buildings. A deal was made between the community and City Hall to preserve most of the neighborhood, which remains largely untouched today. The Brooklyn Heights Promenade forms the western boundary, offering magnificent views of Lower Manhattan and the Statue of Liberty. Many notable people have called Brooklyn Heights home, including H. P. Lovecraft, Matt Damon, Björk, and Mary Tyler Moore. The Brooklyn Heights Historic District was added to the National Register of Historic Places in 1966.",
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/brooklyn-heights.webp"
+    },
+    {
+      "id": "brooklyn__fort-greene",
+      "neighborhood": "Fort Greene",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/fort-greene.webp"
+    },
+    {
+      "id": "brooklyn__clinton-hill",
+      "neighborhood": "Clinton Hill",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/clinton-hill.webp"
+    },
+    {
+      "id": "brooklyn__downtown-brooklyn",
+      "neighborhood": "Downtown Brooklyn",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/downtown-brooklyn.webp"
+    },
+    {
+      "id": "brooklyn__columbia-street-waterfront",
+      "neighborhood": "Columbia Street Waterfront",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/columbia-street-waterfront.webp"
+    },
+    {
+      "id": "brooklyn__cobble-hill",
+      "neighborhood": "Cobble Hill",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/cobble-hill.webp"
+    },
+    {
+      "id": "brooklyn__carroll-gardens",
+      "neighborhood": "Carroll Gardens",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/carroll-gardens.webp"
+    },
+    {
+      "id": "brooklyn__red-hook",
+      "neighborhood": "Red Hook",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/red-hook.webp"
+    },
+    {
+      "id": "brooklyn__boerum-hill",
+      "neighborhood": "Boerum Hill",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/boerum-hill.webp"
+    },
+    {
+      "id": "brooklyn__prospect-heights",
+      "neighborhood": "Prospect Heights",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/prospect-heights.webp"
+    },
+    {
+      "id": "brooklyn__gowanus",
+      "neighborhood": "Gowanus",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/gowanus.webp"
+    },
+    {
+      "id": "brooklyn__park-slope",
+      "neighborhood": "Park Slope",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/park-slope.webp"
+    },
+    {
+      "id": "brooklyn__south-slope",
+      "neighborhood": "South Slope",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/south-slope.webp"
+    },
+    {
+      "id": "brooklyn__greenwood",
+      "neighborhood": "Greenwood",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/greenwood.webp"
+    },
+    {
+      "id": "brooklyn__williamsburg",
+      "neighborhood": "Williamsburg",
+      "borough": "Brooklyn",
+      "summaryHtml": "",
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/williamsburg.webp"
+    },
+    {
+      "id": "brooklyn__broadway-triange",
+      "neighborhood": "Broadway Triange",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/broadway-triange.webp"
+    },
+    {
+      "id": "brooklyn__bedford-stuyvesant",
+      "neighborhood": "Bedford - Stuyvesant",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/bedford-stuyvesant.webp"
+    },
+    {
+      "id": "brooklyn__stuyvesant-heights",
+      "neighborhood": "Stuyvesant Heights",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/stuyvesant-heights.webp"
+    },
+    {
+      "id": "brooklyn__sumner-houses",
+      "neighborhood": "Sumner Houses",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/sumner-houses.webp"
+    },
+    {
+      "id": "brooklyn__crown-heights",
+      "neighborhood": "Crown Heights",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/crown-heights.webp"
+    },
+    {
+      "id": "brooklyn__ocean-hill",
+      "neighborhood": "Ocean Hill",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/ocean-hill.webp"
+    },
+    {
+      "id": "brooklyn__weeksville",
+      "neighborhood": "Weeksville",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/weeksville.webp"
+    },
+    {
+      "id": "brooklyn__bushwick",
+      "neighborhood": "Bushwick",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/bushwick.webp"
+    },
+    {
+      "id": "brooklyn__bay-ridge",
+      "neighborhood": "Bay Ridge",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/bay-ridge.webp"
+    },
+    {
+      "id": "brooklyn__sunset-park",
+      "neighborhood": "Sunset Park",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/sunset-park.webp"
+    },
+    {
+      "id": "brooklyn__bensonhurst",
+      "neighborhood": "Bensonhurst",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/bensonhurst.webp"
+    },
+    {
+      "id": "brooklyn__dyker-heights",
+      "neighborhood": "Dyker Heights",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/dyker-heights.webp"
+    },
+    {
+      "id": "brooklyn__borough-park",
+      "neighborhood": "Borough Park",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/borough-park.webp"
+    },
+    {
+      "id": "brooklyn__mapleton",
+      "neighborhood": "Mapleton",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/mapleton.webp"
+    },
+    {
+      "id": "brooklyn__bath-beach",
+      "neighborhood": "Bath Beach",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/bath-beach.webp"
+    },
+    {
+      "id": "brooklyn__windsor-terrace",
+      "neighborhood": "Windsor Terrace",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/windsor-terrace.webp"
+    },
+    {
+      "id": "brooklyn__gravesend",
+      "neighborhood": "Gravesend",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/gravesend.webp"
+    },
+    {
+      "id": "brooklyn__kensington-amp-parkville",
+      "neighborhood": "Kensington &amp; Parkville",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/kensington-amp-parkville.webp"
+    },
+    {
+      "id": "brooklyn__flatbush",
+      "neighborhood": "Flatbush",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/flatbush.webp"
+    },
+    {
+      "id": "brooklyn__midwood",
+      "neighborhood": "Midwood",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/midwood.webp"
+    },
+    {
+      "id": "brooklyn__sheepshead-bay",
+      "neighborhood": "Sheepshead Bay",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/sheepshead-bay.webp"
+    },
+    {
+      "id": "brooklyn__prospect-lefferts-gardens",
+      "neighborhood": "Prospect Lefferts Gardens",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/prospect-lefferts-gardens.webp"
+    },
+    {
+      "id": "brooklyn__east-flatbush",
+      "neighborhood": "East Flatbush",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/east-flatbush.webp"
+    },
+    {
+      "id": "brooklyn__brownsville",
+      "neighborhood": "Brownsville",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/brownsville.webp"
+    },
+    {
+      "id": "brooklyn__cypress-hills",
+      "neighborhood": "Cypress Hills",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/cypress-hills.webp"
+    },
+    {
+      "id": "brooklyn__east-new-york",
+      "neighborhood": "East New York",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/east-new-york.webp"
+    },
+    {
+      "id": "brooklyn__starrett-city",
+      "neighborhood": "Starrett City",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/starrett-city.webp"
+    },
+    {
+      "id": "brooklyn__greenpoint",
+      "neighborhood": "Greenpoint",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/greenpoint.webp"
+    },
+    {
+      "id": "brooklyn__south-williamsburg",
+      "neighborhood": "South Williamsburg",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/south-williamsburg.webp"
+    },
+    {
+      "id": "brooklyn__east-williamsburg",
+      "neighborhood": "East Williamsburg",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/east-williamsburg.webp"
+    },
+    {
+      "id": "brooklyn__canarsie",
+      "neighborhood": "Canarsie",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/canarsie.webp"
+    },
+    {
+      "id": "brooklyn__flatlands",
+      "neighborhood": "Flatlands",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/flatlands.webp"
+    },
+    {
+      "id": "brooklyn__marine-park",
+      "neighborhood": "Marine Park",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/marine-park.webp"
+    },
+    {
+      "id": "brooklyn__bergen-beach",
+      "neighborhood": "Bergen Beach",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/bergen-beach.webp"
+    },
+    {
+      "id": "brooklyn__mill-basin",
+      "neighborhood": "Mill Basin",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/mill-basin.webp"
+    },
+    {
+      "id": "brooklyn__sea-gate",
+      "neighborhood": "Sea Gate",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/sea-gate.webp"
+    },
+    {
+      "id": "brooklyn__coney-island",
+      "neighborhood": "Coney Island",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/coney-island.webp"
+    },
+    {
+      "id": "brooklyn__brighton-beach",
+      "neighborhood": "Brighton Beach",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/brighton-beach.webp"
+    },
+    {
+      "id": "brooklyn__manhattan-beach",
+      "neighborhood": "Manhattan Beach",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/manhattan-beach.webp"
+    },
+    {
+      "id": "brooklyn__gerritsen-beach",
+      "neighborhood": "Gerritsen Beach",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/gerritsen-beach.webp"
+    },
+    {
+      "id": "brooklyn__ditmas-park",
+      "neighborhood": "Ditmas Park",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/ditmas-park.webp"
+    },
+    {
+      "id": "brooklyn__prospect-park-south",
+      "neighborhood": "Prospect Park South",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/prospect-park-south.webp"
+    },
+    {
+      "id": "brooklyn__west-midwood",
+      "neighborhood": "West Midwood",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/west-midwood.webp"
+    },
+    {
+      "id": "brooklyn__midwood-park",
+      "neighborhood": "Midwood Park",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/midwood-park.webp"
+    },
+    {
+      "id": "brooklyn__fiske-terrace",
+      "neighborhood": "Fiske Terrace",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/fiske-terrace.webp"
+    },
+    {
+      "id": "brooklyn__beverley-square-west",
+      "neighborhood": "Beverley Square West",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/beverley-square-west.webp"
+    },
+    {
+      "id": "brooklyn__beverley-square-east",
+      "neighborhood": "Beverley Square East",
+      "borough": "Brooklyn",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/brooklyn/beverley-square-east.webp"
+    },
+    {
+      "id": "queens__long-island-city",
+      "neighborhood": "Long Island City",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/long-island-city.webp"
+    },
+    {
+      "id": "queens__astoria",
+      "neighborhood": "Astoria",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/astoria.webp"
+    },
+    {
+      "id": "queens__dutch-kills",
+      "neighborhood": "Dutch Kills",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/dutch-kills.webp"
+    },
+    {
+      "id": "queens__hunters-point",
+      "neighborhood": "Hunter's Point",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/hunters-point.webp"
+    },
+    {
+      "id": "queens__blissville",
+      "neighborhood": "Blissville",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/blissville.webp"
+    },
+    {
+      "id": "queens__sunnyside",
+      "neighborhood": "Sunnyside",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/sunnyside.webp"
+    },
+    {
+      "id": "queens__sunnyside-gardens",
+      "neighborhood": "Sunnyside Gardens",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/sunnyside-gardens.webp"
+    },
+    {
+      "id": "queens__woodside",
+      "neighborhood": "Woodside",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/woodside.webp"
+    },
+    {
+      "id": "queens__maspeth",
+      "neighborhood": "Maspeth",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/maspeth.webp"
+    },
+    {
+      "id": "queens__ditmars",
+      "neighborhood": "Ditmars",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/ditmars.webp"
+    },
+    {
+      "id": "queens__astoria-heights",
+      "neighborhood": "Astoria Heights",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/astoria-heights.webp"
+    },
+    {
+      "id": "queens__steinway",
+      "neighborhood": "Steinway",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/steinway.webp"
+    },
+    {
+      "id": "queens__jackson-heights",
+      "neighborhood": "Jackson Heights",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/jackson-heights.webp"
+    },
+    {
+      "id": "queens__ridgewood",
+      "neighborhood": "Ridgewood",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/ridgewood.webp"
+    },
+    {
+      "id": "queens__glendale",
+      "neighborhood": "Glendale",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/glendale.webp"
+    },
+    {
+      "id": "queens__middle-village",
+      "neighborhood": "Middle Village",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/middle-village.webp"
+    },
+    {
+      "id": "queens__elmhurst",
+      "neighborhood": "Elmhurst",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/elmhurst.webp"
+    },
+    {
+      "id": "queens__rego-park",
+      "neighborhood": "Rego Park",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/rego-park.webp"
+    },
+    {
+      "id": "queens__forest-hills",
+      "neighborhood": "Forest Hills",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/forest-hills.webp"
+    },
+    {
+      "id": "queens__corona",
+      "neighborhood": "Corona",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/corona.webp"
+    },
+    {
+      "id": "queens__east-elmhurst",
+      "neighborhood": "East Elmhurst",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/east-elmhurst.webp"
+    },
+    {
+      "id": "queens__north-corona",
+      "neighborhood": "North Corona",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/north-corona.webp"
+    },
+    {
+      "id": "queens__willets-point",
+      "neighborhood": "Willets Point",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/willets-point.webp"
+    },
+    {
+      "id": "queens__college-point",
+      "neighborhood": "College Point",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/college-point.webp"
+    },
+    {
+      "id": "queens__malba",
+      "neighborhood": "Malba",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/malba.webp"
+    },
+    {
+      "id": "queens__flushing",
+      "neighborhood": "Flushing",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/flushing.webp"
+    },
+    {
+      "id": "queens__linden-hill",
+      "neighborhood": "Linden Hill",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/linden-hill.webp"
+    },
+    {
+      "id": "queens__whitestone",
+      "neighborhood": "Whitestone",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/whitestone.webp"
+    },
+    {
+      "id": "queens__kew-gardens",
+      "neighborhood": "Kew Gardens",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/kew-gardens.webp"
+    },
+    {
+      "id": "queens__kew-gardens-hills",
+      "neighborhood": "Kew Gardens Hills",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/kew-gardens-hills.webp"
+    },
+    {
+      "id": "queens__beechhurst",
+      "neighborhood": "Beechhurst",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/beechhurst.webp"
+    },
+    {
+      "id": "queens__bayside",
+      "neighborhood": "Bayside",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/bayside.webp"
+    },
+    {
+      "id": "queens__bay-terrace",
+      "neighborhood": "Bay Terrace",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/bay-terrace.webp"
+    },
+    {
+      "id": "queens__murray-hill",
+      "neighborhood": "Murray Hill",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/murray-hill.webp"
+    },
+    {
+      "id": "queens__auburndale",
+      "neighborhood": "Auburndale",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/auburndale.webp"
+    },
+    {
+      "id": "queens__queensboro-hill",
+      "neighborhood": "Queensboro Hill",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/queensboro-hill.webp"
+    },
+    {
+      "id": "queens__fresh-meadows",
+      "neighborhood": "Fresh Meadows",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/fresh-meadows.webp"
+    },
+    {
+      "id": "queens__utopia",
+      "neighborhood": "Utopia",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/utopia.webp"
+    },
+    {
+      "id": "queens__pomonok",
+      "neighborhood": "Pomonok",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/pomonok.webp"
+    },
+    {
+      "id": "queens__hillcrest",
+      "neighborhood": "Hillcrest",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/hillcrest.webp"
+    },
+    {
+      "id": "queens__briarwood",
+      "neighborhood": "Briarwood",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/briarwood.webp"
+    },
+    {
+      "id": "queens__jamaica-hills",
+      "neighborhood": "Jamaica Hills",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/jamaica-hills.webp"
+    },
+    {
+      "id": "queens__jamaica-estates",
+      "neighborhood": "Jamaica Estates",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/jamaica-estates.webp"
+    },
+    {
+      "id": "queens__jamaica",
+      "neighborhood": "Jamaica",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/jamaica.webp"
+    },
+    {
+      "id": "queens__richmond-hill",
+      "neighborhood": "Richmond Hill",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/richmond-hill.webp"
+    },
+    {
+      "id": "queens__south-ozone-park",
+      "neighborhood": "South Ozone Park",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/south-ozone-park.webp"
+    },
+    {
+      "id": "queens__ozone-park",
+      "neighborhood": "Ozone Park",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/ozone-park.webp"
+    },
+    {
+      "id": "queens__woodhaven",
+      "neighborhood": "Woodhaven",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/woodhaven.webp"
+    },
+    {
+      "id": "queens__lindenwood",
+      "neighborhood": "Lindenwood",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/lindenwood.webp"
+    },
+    {
+      "id": "queens__howard-beach",
+      "neighborhood": "Howard Beach",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/howard-beach.webp"
+    },
+    {
+      "id": "queens__hamilton-beach",
+      "neighborhood": "Hamilton Beach",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/hamilton-beach.webp"
+    },
+    {
+      "id": "queens__hollis",
+      "neighborhood": "Hollis",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/hollis.webp"
+    },
+    {
+      "id": "queens__south-jamaica",
+      "neighborhood": "South Jamaica",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/south-jamaica.webp"
+    },
+    {
+      "id": "queens__st-albans",
+      "neighborhood": "St. Albans",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/st-albans.webp"
+    },
+    {
+      "id": "queens__laurelton",
+      "neighborhood": "Laurelton",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/laurelton.webp"
+    },
+    {
+      "id": "queens__springfield-gardens",
+      "neighborhood": "Springfield Gardens",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/springfield-gardens.webp"
+    },
+    {
+      "id": "queens__rochdale",
+      "neighborhood": "Rochdale",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/rochdale.webp"
+    },
+    {
+      "id": "queens__oakland-gardens",
+      "neighborhood": "Oakland Gardens",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/oakland-gardens.webp"
+    },
+    {
+      "id": "queens__hollis-hills",
+      "neighborhood": "Hollis Hills",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/hollis-hills.webp"
+    },
+    {
+      "id": "queens__queens-village",
+      "neighborhood": "Queens Village",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/queens-village.webp"
+    },
+    {
+      "id": "queens__cambria-heights",
+      "neighborhood": "Cambria Heights",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/cambria-heights.webp"
+    },
+    {
+      "id": "queens__brookville",
+      "neighborhood": "Brookville",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/brookville.webp"
+    },
+    {
+      "id": "queens__rosedale",
+      "neighborhood": "Rosedale",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/rosedale.webp"
+    },
+    {
+      "id": "queens__douglaston",
+      "neighborhood": "Douglaston",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/douglaston.webp"
+    },
+    {
+      "id": "queens__little-neck",
+      "neighborhood": "Little Neck",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/little-neck.webp"
+    },
+    {
+      "id": "queens__glen-oaks",
+      "neighborhood": "Glen Oaks",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/glen-oaks.webp"
+    },
+    {
+      "id": "queens__bellerose",
+      "neighborhood": "Bellerose",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/bellerose.webp"
+    },
+    {
+      "id": "queens__floral-park",
+      "neighborhood": "Floral Park",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/floral-park.webp"
+    },
+    {
+      "id": "queens__broad-channel",
+      "neighborhood": "Broad Channel",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/broad-channel.webp"
+    },
+    {
+      "id": "queens__far-rockaway",
+      "neighborhood": "Far Rockaway",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/far-rockaway.webp"
+    },
+    {
+      "id": "queens__bayswater",
+      "neighborhood": "Bayswater",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/bayswater.webp"
+    },
+    {
+      "id": "queens__edgemere",
+      "neighborhood": "Edgemere",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/edgemere.webp"
+    },
+    {
+      "id": "queens__arverne",
+      "neighborhood": "Arverne",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/arverne.webp"
+    },
+    {
+      "id": "queens__hammels",
+      "neighborhood": "Hammels",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/hammels.webp"
+    },
+    {
+      "id": "queens__seaside",
+      "neighborhood": "Seaside",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/seaside.webp"
+    },
+    {
+      "id": "queens__belle-harbor",
+      "neighborhood": "Belle Harbor",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/belle-harbor.webp"
+    },
+    {
+      "id": "queens__rockaway-park",
+      "neighborhood": "Rockaway Park",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/rockaway-park.webp"
+    },
+    {
+      "id": "queens__neponsit",
+      "neighborhood": "Neponsit",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/neponsit.webp"
+    },
+    {
+      "id": "queens__roxbury",
+      "neighborhood": "Roxbury",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/roxbury.webp"
+    },
+    {
+      "id": "queens__breezy-point",
+      "neighborhood": "Breezy Point",
+      "borough": "Queens",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/queens/breezy-point.webp"
+    },
+    {
+      "id": "bronx__port-morris",
+      "neighborhood": "Port Morris",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/port-morris.webp"
+    },
+    {
+      "id": "bronx__mott-haven",
+      "neighborhood": "Mott Haven",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/mott-haven.webp"
+    },
+    {
+      "id": "bronx__melrose",
+      "neighborhood": "Melrose",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/melrose.webp"
+    },
+    {
+      "id": "bronx__highbridge",
+      "neighborhood": "Highbridge",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/highbridge.webp"
+    },
+    {
+      "id": "bronx__hunts-point",
+      "neighborhood": "Hunts Point",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/hunts-point.webp"
+    },
+    {
+      "id": "bronx__longwood",
+      "neighborhood": "Longwood",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/longwood.webp"
+    },
+    {
+      "id": "bronx__morrisania",
+      "neighborhood": "Morrisania",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/morrisania.webp"
+    },
+    {
+      "id": "bronx__foxhurst",
+      "neighborhood": "Foxhurst",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/foxhurst.webp"
+    },
+    {
+      "id": "bronx__crotona-park",
+      "neighborhood": "Crotona Park",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/crotona-park.webp"
+    },
+    {
+      "id": "bronx__morris-heights",
+      "neighborhood": "Morris Heights",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/morris-heights.webp"
+    },
+    {
+      "id": "bronx__university-heights",
+      "neighborhood": "University Heights",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/university-heights.webp"
+    },
+    {
+      "id": "bronx__mount-hope",
+      "neighborhood": "Mount Hope",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/mount-hope.webp"
+    },
+    {
+      "id": "bronx__tremont",
+      "neighborhood": "Tremont",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/tremont.webp"
+    },
+    {
+      "id": "bronx__fordham-heights",
+      "neighborhood": "Fordham Heights",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/fordham-heights.webp"
+    },
+    {
+      "id": "bronx__west-farms",
+      "neighborhood": "West Farms",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/west-farms.webp"
+    },
+    {
+      "id": "bronx__belmont",
+      "neighborhood": "Belmont",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/belmont.webp"
+    },
+    {
+      "id": "bronx__west-concourse",
+      "neighborhood": "West Concourse",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/west-concourse.webp"
+    },
+    {
+      "id": "bronx__concourse-village",
+      "neighborhood": "Concourse Village",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/concourse-village.webp"
+    },
+    {
+      "id": "bronx__kingsbridge-heights",
+      "neighborhood": "Kingsbridge Heights",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/kingsbridge-heights.webp"
+    },
+    {
+      "id": "bronx__bedford-park",
+      "neighborhood": "Bedford Park",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/bedford-park.webp"
+    },
+    {
+      "id": "bronx__fordham-north",
+      "neighborhood": "Fordham North",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/fordham-north.webp"
+    },
+    {
+      "id": "bronx__norwood",
+      "neighborhood": "Norwood",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/norwood.webp"
+    },
+    {
+      "id": "bronx__kingsbridge",
+      "neighborhood": "Kingsbridge",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/kingsbridge.webp"
+    },
+    {
+      "id": "bronx__spuyten-duyvil",
+      "neighborhood": "Spuyten Duyvil",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/spuyten-duyvil.webp"
+    },
+    {
+      "id": "bronx__riverdale",
+      "neighborhood": "Riverdale",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/riverdale.webp"
+    },
+    {
+      "id": "bronx__fieldston",
+      "neighborhood": "Fieldston",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/fieldston.webp"
+    },
+    {
+      "id": "bronx__north-riverdale",
+      "neighborhood": "North Riverdale",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/north-riverdale.webp"
+    },
+    {
+      "id": "bronx__soundview",
+      "neighborhood": "Soundview",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/soundview.webp"
+    },
+    {
+      "id": "bronx__clason-point",
+      "neighborhood": "Clason Point",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/clason-point.webp"
+    },
+    {
+      "id": "bronx__parkchester",
+      "neighborhood": "Parkchester",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/parkchester.webp"
+    },
+    {
+      "id": "bronx__van-nest",
+      "neighborhood": "Van Nest",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/van-nest.webp"
+    },
+    {
+      "id": "bronx__castle-hill",
+      "neighborhood": "Castle Hill",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/castle-hill.webp"
+    },
+    {
+      "id": "bronx__unionport",
+      "neighborhood": "Unionport",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/unionport.webp"
+    },
+    {
+      "id": "bronx__westchester-square",
+      "neighborhood": "Westchester Square",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/westchester-square.webp"
+    },
+    {
+      "id": "bronx__morris-park",
+      "neighborhood": "Morris Park",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/morris-park.webp"
+    },
+    {
+      "id": "bronx__pelham-bay",
+      "neighborhood": "Pelham Bay",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/pelham-bay.webp"
+    },
+    {
+      "id": "bronx__throggs-neck",
+      "neighborhood": "Throggs Neck",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/throggs-neck.webp"
+    },
+    {
+      "id": "bronx__schuylerville",
+      "neighborhood": "Schuylerville",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/schuylerville.webp"
+    },
+    {
+      "id": "bronx__country-club",
+      "neighborhood": "Country Club",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/country-club.webp"
+    },
+    {
+      "id": "bronx__pelham-gardens",
+      "neighborhood": "Pelham Gardens",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/pelham-gardens.webp"
+    },
+    {
+      "id": "bronx__bronxdale",
+      "neighborhood": "Bronxdale",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/bronxdale.webp"
+    },
+    {
+      "id": "bronx__allerton",
+      "neighborhood": "Allerton",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/allerton.webp"
+    },
+    {
+      "id": "bronx__williamsbridge",
+      "neighborhood": "Williamsbridge",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/williamsbridge.webp"
+    },
+    {
+      "id": "bronx__olinville",
+      "neighborhood": "Olinville",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/olinville.webp"
+    },
+    {
+      "id": "bronx__baychester",
+      "neighborhood": "Baychester",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/baychester.webp"
+    },
+    {
+      "id": "bronx__co-op",
+      "neighborhood": "Co-Op",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/co-op.webp"
+    },
+    {
+      "id": "bronx__eastchester",
+      "neighborhood": "Eastchester",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/eastchester.webp"
+    },
+    {
+      "id": "bronx__edenwald",
+      "neighborhood": "Edenwald",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/edenwald.webp"
+    },
+    {
+      "id": "bronx__wakefield",
+      "neighborhood": "Wakefield",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/wakefield.webp"
+    },
+    {
+      "id": "bronx__woodlawn",
+      "neighborhood": "Woodlawn",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/woodlawn.webp"
+    },
+    {
+      "id": "bronx__north-brother",
+      "neighborhood": "North Brother",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/north-brother.webp"
+    },
+    {
+      "id": "bronx__south-brother",
+      "neighborhood": "South Brother",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/south-brother.webp"
+    },
+    {
+      "id": "bronx__rikers-island",
+      "neighborhood": "Rikers Island",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/rikers-island.webp"
+    },
+    {
+      "id": "bronx__city-island",
+      "neighborhood": "City Island",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/city-island.webp"
+    },
+    {
+      "id": "bronx__high-island",
+      "neighborhood": "High Island",
+      "borough": "Bronx",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/bronx/high-island.webp"
+    },
+    {
+      "id": "staten-island__st-george",
+      "neighborhood": "St. George",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/st-george.webp"
+    },
+    {
+      "id": "staten-island__new-brighton",
+      "neighborhood": "New Brighton",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/new-brighton.webp"
+    },
+    {
+      "id": "staten-island__stapleton",
+      "neighborhood": "Stapleton",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/stapleton.webp"
+    },
+    {
+      "id": "staten-island__tompkinsville",
+      "neighborhood": "Tompkinsville",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/tompkinsville.webp"
+    },
+    {
+      "id": "staten-island__randall-manor",
+      "neighborhood": "Randall Manor",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/randall-manor.webp"
+    },
+    {
+      "id": "staten-island__silver-lake",
+      "neighborhood": "Silver Lake",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/silver-lake.webp"
+    },
+    {
+      "id": "staten-island__west-new-brighton",
+      "neighborhood": "West New Brighton",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/west-new-brighton.webp"
+    },
+    {
+      "id": "staten-island__port-richmond",
+      "neighborhood": "Port Richmond",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/port-richmond.webp"
+    },
+    {
+      "id": "staten-island__elm-park",
+      "neighborhood": "Elm Park",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/elm-park.webp"
+    },
+    {
+      "id": "staten-island__mariners-harbor",
+      "neighborhood": "Mariners Harbor",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/mariners-harbor.webp"
+    },
+    {
+      "id": "staten-island__shooters-island",
+      "neighborhood": "Shooters Island",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/shooters-island.webp"
+    },
+    {
+      "id": "staten-island__arlington",
+      "neighborhood": "Arlington",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/arlington.webp"
+    },
+    {
+      "id": "staten-island__port-ivory",
+      "neighborhood": "Port Ivory",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/port-ivory.webp"
+    },
+    {
+      "id": "staten-island__old-place",
+      "neighborhood": "Old Place",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/old-place.webp"
+    },
+    {
+      "id": "staten-island__graniteville",
+      "neighborhood": "Graniteville",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/graniteville.webp"
+    },
+    {
+      "id": "staten-island__westerleigh",
+      "neighborhood": "Westerleigh",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/westerleigh.webp"
+    },
+    {
+      "id": "staten-island__bloomfield",
+      "neighborhood": "Bloomfield",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/bloomfield.webp"
+    },
+    {
+      "id": "staten-island__bulls-head",
+      "neighborhood": "Bulls Head",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/bulls-head.webp"
+    },
+    {
+      "id": "staten-island__pralls-island",
+      "neighborhood": "Prall's Island",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/pralls-island.webp"
+    },
+    {
+      "id": "staten-island__meiers-corner",
+      "neighborhood": "Meiers Corner",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/meiers-corner.webp"
+    },
+    {
+      "id": "staten-island__castleton-corners",
+      "neighborhood": "Castleton Corners",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/castleton-corners.webp"
+    },
+    {
+      "id": "staten-island__clifton",
+      "neighborhood": "Clifton",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/clifton.webp"
+    },
+    {
+      "id": "staten-island__rosebank",
+      "neighborhood": "Rosebank",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/rosebank.webp"
+    },
+    {
+      "id": "staten-island__grymes-hill",
+      "neighborhood": "Grymes Hill",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/grymes-hill.webp"
+    },
+    {
+      "id": "staten-island__sunnyside",
+      "neighborhood": "Sunnyside",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/sunnyside.webp"
+    },
+    {
+      "id": "staten-island__park-hill",
+      "neighborhood": "Park Hill",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/park-hill.webp"
+    },
+    {
+      "id": "staten-island__shore-acres",
+      "neighborhood": "Shore Acres",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/shore-acres.webp"
+    },
+    {
+      "id": "staten-island__arrochar",
+      "neighborhood": "Arrochar",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/arrochar.webp"
+    },
+    {
+      "id": "staten-island__south-beach",
+      "neighborhood": "South Beach",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/south-beach.webp"
+    },
+    {
+      "id": "staten-island__dongan-hills",
+      "neighborhood": "Dongan Hills",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/dongan-hills.webp"
+    },
+    {
+      "id": "staten-island__concord",
+      "neighborhood": "Concord",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/concord.webp"
+    },
+    {
+      "id": "staten-island__grasmere",
+      "neighborhood": "Grasmere",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/grasmere.webp"
+    },
+    {
+      "id": "staten-island__old-town",
+      "neighborhood": "Old Town",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/old-town.webp"
+    },
+    {
+      "id": "staten-island__todt-hill",
+      "neighborhood": "Todt Hill",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/todt-hill.webp"
+    },
+    {
+      "id": "staten-island__manor-heights",
+      "neighborhood": "Manor Heights",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/manor-heights.webp"
+    },
+    {
+      "id": "staten-island__willowbrook",
+      "neighborhood": "Willowbrook",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/willowbrook.webp"
+    },
+    {
+      "id": "staten-island__new-springville",
+      "neighborhood": "New Springville",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/new-springville.webp"
+    },
+    {
+      "id": "staten-island__heartland-village",
+      "neighborhood": "Heartland Village",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/heartland-village.webp"
+    },
+    {
+      "id": "staten-island__travis-chelsea",
+      "neighborhood": "Travis-Chelsea",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/travis-chelsea.webp"
+    },
+    {
+      "id": "staten-island__midland-beach",
+      "neighborhood": "Midland Beach",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/midland-beach.webp"
+    },
+    {
+      "id": "staten-island__grant-city",
+      "neighborhood": "Grant City",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/grant-city.webp"
+    },
+    {
+      "id": "staten-island__new-dorp",
+      "neighborhood": "New Dorp",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/new-dorp.webp"
+    },
+    {
+      "id": "staten-island__lighthouse-hill",
+      "neighborhood": "Lighthouse Hill",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/lighthouse-hill.webp"
+    },
+    {
+      "id": "staten-island__oakwood",
+      "neighborhood": "Oakwood",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/oakwood.webp"
+    },
+    {
+      "id": "staten-island__richmondtown",
+      "neighborhood": "Richmondtown",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/richmondtown.webp"
+    },
+    {
+      "id": "staten-island__bay-terrace",
+      "neighborhood": "Bay Terrace",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/bay-terrace.webp"
+    },
+    {
+      "id": "staten-island__great-kills",
+      "neighborhood": "Great Kills",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/great-kills.webp"
+    },
+    {
+      "id": "staten-island__eltingville",
+      "neighborhood": "Eltingville",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/eltingville.webp"
+    },
+    {
+      "id": "staten-island__arden-heights",
+      "neighborhood": "Arden Heights",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/arden-heights.webp"
+    },
+    {
+      "id": "staten-island__annadale",
+      "neighborhood": "Annadale",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/annadale.webp"
+    },
+    {
+      "id": "staten-island__huguenot",
+      "neighborhood": "Huguenot",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/huguenot.webp"
+    },
+    {
+      "id": "staten-island__princes-bay",
+      "neighborhood": "Prince's Bay",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/princes-bay.webp"
+    },
+    {
+      "id": "staten-island__woodrow",
+      "neighborhood": "Woodrow",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/woodrow.webp"
+    },
+    {
+      "id": "staten-island__rossville",
+      "neighborhood": "Rossville",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/rossville.webp"
+    },
+    {
+      "id": "staten-island__pleasant-plains",
+      "neighborhood": "Pleasant Plains",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/pleasant-plains.webp"
+    },
+    {
+      "id": "staten-island__richmond-valley",
+      "neighborhood": "Richmond Valley",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/richmond-valley.webp"
+    },
+    {
+      "id": "staten-island__tottenville",
+      "neighborhood": "Tottenville",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/tottenville.webp"
+    },
+    {
+      "id": "staten-island__charleston",
+      "neighborhood": "Charleston",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/charleston.webp"
+    },
+    {
+      "id": "staten-island__hoffman-island",
+      "neighborhood": "Hoffman Island",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/hoffman-island.webp"
+    },
+    {
+      "id": "staten-island__swinburn-island",
+      "neighborhood": "Swinburn Island",
+      "borough": "Staten Island",
+      "summaryHtml": null,
+      "summaryText": null,
+      "imageRelativePath": "neighborhood-maps-webp/staten-island/swinburn-island.webp"
+    }
+  ]
+}
